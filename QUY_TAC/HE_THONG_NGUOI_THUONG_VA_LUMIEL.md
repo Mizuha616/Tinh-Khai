@@ -30,7 +30,7 @@
 | SSS | 5 |
 | RS+ | 6 — cao nhất trong các cấp hiện được nêu |
 
-**Chưa xác lập:** các tiêu chí định lượng, tỷ lệ dân số mỗi cấp, cách thăng cấp, ý nghĩa riêng của chữ N/R/RS+, phương pháp đo lường, hay việc có những cấp ngoại lệ khác. Không tự sáng tác các thông số này thành canon.
+**Chưa xác lập:** bảng tiêu chí định lượng đầy đủ của từng cấp, tỷ lệ dân số mỗi cấp, cách thăng cấp, ý nghĩa riêng của chữ N/R/RS+, hay việc có những cấp ngoại lệ khác. **Phương pháp đo và các mốc định lượng mới được bổ sung ở mục 5**; không tự sáng tác thêm thông số.
 
 ## 3. Phân biệt cấp năng lực và mức độ làm chủ
 
@@ -45,3 +45,25 @@
 - Không mặc định mọi thiết bị Lumirith hoặc mọi người dùng công nghệ đều có năng lực bẩm sinh.
 - Chưa tự đặt quy tắc giá thành thiết bị, hạn chế sử dụng, quyền sở hữu, hay năng lực chiến đấu cụ thể của từng bậc.
 - Khi viết truyện, giữ nguyên thứ tự các cấp: **N < R < S < SS < SSS < RS+**.
+
+## 5. Phương pháp đo Lumirith hiện hành — CANON bổ sung 2026-10-21
+
+- Công nghệ đo năng lực hiện hành dùng AI và máy quét xác định **mức độ Lumirith hòa tan vào cơ thể sinh vật**, rồi từ đó suy ra cấp năng lực. Các trường có thể tạo bài sát hạch ngẫu nhiên bằng thiết bị, giáo sư quan sát và đánh giá thay vì trực tiếp đấu với thí sinh.
+- Ở Lumiel **cấp SSS thông thường**, mức hòa tan Lumirith **trung bình khoảng 60–70%**. Không tự suy ra bảng tỷ lệ cố định cho các cấp còn lại từ một vài ví dụ.
+- **Aeva và Deviant là hai Ngụy Thiên thần được tạo ra từ Lumirith**, không phải cơ thể sinh học bình thường được Lumirith thâm nhập. Nếu máy cố áp dụng phương pháp đo cho sinh vật, chỉ số của họ hướng tới **gần 100%**, vượt giả định thiết kế máy đo.
+- **Không đồng nhất** tỷ lệ hòa tan máy ghi được với bản chất của Ngụy Thiên thần hay năng lực thực tế của họ.
+
+## 6. Kỳ tuyển sinh Royal Wintheria Academy — diễn biến Chương 3
+
+- Khi Aeva vào phòng, AI phát hiện dị tượng và yêu cầu đo năng lực trước.
+- Lần đo đầu chỉ số đạt khoảng **75%**, máy **quá tải, cháy hỏng**; hội đồng giáo sư cho rằng thiết bị gặp sự cố năng lượng.
+- Hội đồng mang máy mới vào; kết quả được ghi nhận **30% Lumirith, Lumiel cấp R**. Aeva **trúng tuyển vé vớt vào hướng hỗ trợ, không phải hướng chiến đấu**.
+- **SPOILER / CHỈ DÀNH CHO NGƯỜI VIẾT:** Máy thứ hai đã bị **Atharal**, Lumiel SSS hệ tâm linh do **Deviant triệu hồi**, can thiệp để làm sai dữ liệu theo ý Deviant. Tuyệt đối **không tiết lộ Deviant, Atharal hoặc sự can thiệp này trong Chương 3**; chỉ hé lộ khi Deviant được giới thiệu sau này.
+- Việc hội đồng chấp nhận kết quả thứ hai không yêu cầu sáng tác tình tiết Atharal thao túng ký ức hay nhận thức giáo sư; hiện mới xác nhận Atharal can thiệp hệ thống máy/dữ liệu.
+
+## 7. Nguyên tắc giữ bí mật cốt truyện
+
+- Hai Ngụy Thiên thần tới Tinh Khải **có mục đích**, nhưng nội dung mục đích **chưa được người sáng tạo công bố**; không tự suy đoán thành canon.
+- Deviant **tự nguyện** ở khu Cy-tech quản thúc trong học viện để **chờ Aeva**, không phải vì Cy-tech đủ sức khống chế hắn. Mục tiêu quan trọng của hắn là **đánh thức ký ức Aeva**; giữ bí mật trong giai đoạn truyện hiện tại.
+- Deviant lạnh nhạt với nhân loại, thể hiện vẻ ngạo nghễ bằng **sức mạnh và hành động**, không bằng lời khiêu khích hay đối đáp dài dòng. Hắn thích xâm nhập hệ thống, thường dùng Atharal để hack.
+- Xem thêm: [Hồ sơ Lumiel SSS](../LUMIEL/HO_SO_LUMIEL_CAP_SSS.md) và [Deviant](../NHAN_VAT/DEVIANT.md).
