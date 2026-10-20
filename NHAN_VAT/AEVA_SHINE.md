@@ -48,3 +48,11 @@
 - Năng lực **tạo ra Lumiel SSS** được đánh giá là **nguy hiểm hơn cả ngưng đọng thời gian** xét ở tiềm năng bị khai thác cho mục tiêu quân sự.
 - Nếu một quốc gia quân sự bắt giữ và khai thác được năng lực này, họ có thể giành ưu thế áp đảo, thậm chí hướng tới bá quyền.
 - Đây là **nguy cơ/tiềm năng chiến lược**, không mặc định một quốc gia đã bắt được Aeva, có thể buộc cô sử dụng vô hạn, hoặc chắc chắn thống trị thế giới.
+
+## Kết quả tuyển sinh — Chương 3 (2026-10-21)
+
+- Máy đo thứ nhất tăng tới khoảng **75%** rồi cháy vì quá tải; hội đồng giáo sư coi đó là sự cố thiết bị.
+- Thiết bị thay thế ghi **30% Lumirith**, xếp Aeva **Lumiel cấp R**.
+- Aeva **được nhận ở mức vé vớt vào định hướng hỗ trợ**, **không** xếp vào đào tạo chiến đấu.
+- Phân loại cấp R này là **hồ sơ tuyển sinh sai lệch**, không thay thế thiết lập năng lực thực sự SSS và bản chất Ngụy Thiên thần của Aeva.
+- **Chỉ dành cho người viết:** Deviant sử dụng Atharal để làm sai số liệu máy thứ hai; không đề cập tác nhân này trong Chương 3. Deviant đang chờ và muốn đánh thức ký ức Aeva; mục đích sâu xa của hai Ngụy Thiên thần chưa được tiết lộ.
