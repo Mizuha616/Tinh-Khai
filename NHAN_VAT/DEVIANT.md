@@ -36,9 +36,9 @@
 ## Những điểm chưa xác lập
 
 - Tuổi thật và thời điểm bắt đầu tồn tại.
-- Nguồn gốc và cơ chế hình thành; chưa xác định ai hoặc điều gì đã tạo ra Deviant.
+- Đã xác nhận **cơ thể được tạo ra từ Lumirith**; chưa xác định ai/điều gì tạo ra hắn và quy trình hình thành.
 - Có thuộc hành tinh nơi câu chuyện diễn ra hay không.
-- Tính cách, mục đích, lập trường và các quan hệ cá nhân.
+- Đã xác nhận tính cách, việc tự nguyện chờ Aeva và mục tiêu đánh thức ký ức ở phần bổ sung; mục đích sâu xa của hai Ngụy Thiên thần vẫn chưa tiết lộ.
 - Giới hạn, điều kiện, chi phí và mức độ thành thạo của từng năng lực.
 - Quan hệ bản chất giữa Deviant với các nhân vật khác.
 
@@ -49,3 +49,13 @@
 - Không đánh đồng **triệu hồi Lumiel đã tồn tại** với **sáng tạo Lumiel mới**.
 - Không tự xác định danh tính của tập đoàn khai thác khi người sáng tạo chưa chốt.
 - Các suy đoán về bí mật Sáng Thế hoặc những thực thể khác **không phải nội dung canon công khai của hồ sơ này**.
+
+## Thiết lập bổ sung — bí mật cốt truyện (2026-10-21)
+
+- **Bản chất:** Deviant và Aeva là hai **Ngụy Thiên thần được tạo ra từ Lumirith**, không phải sinh vật bình thường bị Lumirith thâm nhập. Chi tiết này **chưa công khai cho nhân vật và độc giả ở giai đoạn đầu**.
+- **Cy-tech:** Deviant **tự nguyện** chịu quản thúc tại học viện để chờ Aeva; Cy-tech **không thực sự đủ sức giam giữ hắn trái ý muốn**.
+- **Mục tiêu quan trọng:** **Đánh thức ký ức Aeva**. Hai Ngụy Thiên thần đến Tinh Khải với mục đích chưa được tiết lộ; không tự điền mục đích.
+- **Tính cách:** lạnh nhạt với con người; không thèm đối đáp hay khoe sức mạnh bằng lời. Sự ngạo nghễ, kiểu “bố đời”, biểu hiện qua thái độ, hành động và sức mạnh; không viết thành nhân vật thích khẩu chiến.
+- **Thói quen:** thích hack, thường triệu hồi **Atharal**, Lumiel **SSS hệ tâm linh** đã tồn tại, để xâm nhập/điều chỉnh hệ thống máy móc và dữ liệu.
+- **Bí mật Chương 3:** Cảm ứng Aeva xuất hiện tại học viện, Deviant dùng Atharal can thiệp máy đo thứ hai để hiển thị **30% Lumirith / cấp R**, che giấu năng lực cô. **Tuyệt đối không kể sự can thiệp này trong Chương 3**; dành cho thời điểm giới thiệu Deviant.
+- **Giới hạn:** Chưa xác lập mọi giới hạn của Atharal, không mặc định thao túng được ký ức con người chỉ từ việc hack thiết bị. Không xác lập thêm quan hệ, lý do sâu xa hoặc đích đến của hai Ngụy Thiên thần.
