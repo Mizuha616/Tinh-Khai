@@ -87,3 +87,13 @@
 - Về sau Jenki có thể **chủ động đặt chính mình vào nguy hiểm để tạo điều kiện kích hoạt**, nhưng cậu vẫn không thể bảo vệ người ở ngoài bán kính tác dụng.
 - **Ví dụ giới hạn:** Jenki ở trên một con thuyền **không đồng nghĩa** May Mắn có thể ngăn **cả con thuyền** chìm. Chỉ nhóm trong phạm vi ảnh hưởng quanh cậu có thể được hưởng hiệu quả phù hợp cấp độ.
 - Phạm vi và cấp độ là **hai giới hạn đồng thời**: có mặt trong bán kính không bảo đảm thoát khỏi nguy hiểm quá sức Level hiện tại; không mô tả năng lực thành chiến thắng tuyệt đối.
+
+## 10. Phạm vi tác động của kỹ năng Hệ Đặc Biệt — CANON
+
+- **Các kỹ năng thuộc Hệ Đặc Biệt đều có vùng/phạm vi ảnh hưởng**, nhưng **mỗi kỹ năng có cơ chế xác định vùng tác động riêng**; không áp dụng cùng một bán kính cho tất cả.
+- Hệ Đặc Biệt được xác định bởi tính chất kỹ năng không thể phân loại đơn thuần theo tấn công, phòng thủ hay hỗ trợ; nhiều kỹ năng đa dụng. Các hệ thống đo hiện tại không đo lường/phân loại đầy đủ hiệu ứng đặc biệt này.
+- **Jenki — May Mắn chi thuật:** Level 1 có vùng ảnh hưởng bán kính **2 m** quanh Jenki, và **chỉ kích hoạt khi chính Jenki gặp nguy hiểm**.
+- **Aeva — Sao chép kỹ năng:** Thuộc Hệ Đặc Biệt, bị giới hạn phạm vi; **chưa chốt con số và cách xác định phạm vi**.
+- **Deviant — Dịch chuyển tức thời:** Thuộc Hệ Đặc Biệt; điểm đến **phải nằm trong tầm nhìn của người sử dụng**. Không tự suy ra bán kính tối đa.
+- **Đi vào giấc mơ:** Một kỹ năng Hệ Đặc Biệt sẽ do một **nhân vật xuất hiện về sau** sở hữu; **có vùng ảnh hưởng riêng tùy cơ chế kỹ năng**, nhưng chưa xác định khoảng cách, hình dạng/phương thức xác định vùng, điều kiện kích hoạt, khả năng tương tác trong mơ hay danh tính người sở hữu.
+- Không tự gán kỹ năng Đi vào giấc mơ khả năng đọc ký ức, điều khiển giấc mơ, hay tác động mọi người ở bất cứ đâu. Không tiết lộ người sở hữu khi tác giả chưa quyết định.
