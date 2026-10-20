@@ -59,3 +59,10 @@
 - **Thói quen:** thích hack, thường triệu hồi **Atharal**, Lumiel **SSS hệ tâm linh** đã tồn tại, để xâm nhập/điều chỉnh hệ thống máy móc và dữ liệu.
 - **Bí mật Chương 3:** Cảm ứng Aeva xuất hiện tại học viện, Deviant dùng Atharal can thiệp máy đo thứ hai để hiển thị **30% Lumirith / cấp R**, che giấu năng lực cô. **Tuyệt đối không kể sự can thiệp này trong Chương 3**; dành cho thời điểm giới thiệu Deviant.
 - **Giới hạn:** Chưa xác lập mọi giới hạn của Atharal, không mặc định thao túng được ký ức con người chỉ từ việc hack thiết bị. Không xác lập thêm quan hệ, lý do sâu xa hoặc đích đến của hai Ngụy Thiên thần.
+
+## Quy tắc triệu hồi và quan hệ Deviant–Atharal (canon)
+
+- Deviant có thể triệu hồi Lumiel SSS đã từng gặp và tiếp xúc, nhưng **triệu hồi không trao quyền điều khiển hay bắt buộc phục tùng**. Đối tượng vẫn có ý chí riêng.
+- **Atharal quý mến Deviant**, nên **tự nguyện nghe lời và giúp hắn**. Sự hợp tác không phải hiệu ứng cưỡng chế của kỹ năng triệu hồi.
+- Không suy diễn rằng các Lumiel SSS khác, kể cả Vincent hoặc Aeva, sẽ phục tùng Deviant nếu được triệu hồi.
+- Chưa chốt cơ chế từ chối triệu hồi hoặc bản chất hiện diện của đối tượng được triệu hồi; không tự đặt luật mới.
