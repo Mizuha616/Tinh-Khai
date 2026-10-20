@@ -28,13 +28,13 @@
 - **Cấp Lumiel:** **SSS**.
 - **Năng lực 1 — Ngưng đọng thời gian:** Giai đoạn đầu chỉ duy trì được **5 giây**, về sau tăng dần. Đây là giới hạn vận dụng hiện tại, **không phải** bằng chứng cô chỉ có cấp thấp.
 - **Năng lực 2 — Sao chép kỹ năng:** Có thể **sử dụng kỹ năng của người khác trong một khoảng thời gian ngắn** (copy kỹ năng).
-- **Năng lực 3 — Triệu hồi:** Có **khả năng triệu hồi Lumiel cấp SSS**.
+- **Năng lực 3 — Sáng tạo Lumiel:** Có **khả năng tạo ra Lumiel cấp SSS**, không phải chỉ triệu hồi một cá thể Lumiel SSS đã tồn tại.
 
 ## Giới hạn chưa chốt
 - Chưa xác định tên Giáo chủ đã truyền họ **Shine**, cũng như địa vị hay lai lịch của người ấy.
 - Chưa xác định điều kiện, số lần, thời gian sử dụng và loại kỹ năng có thể sao chép.
-- Chưa xác định cơ chế, đối tượng cụ thể, điều kiện và chi phí của việc triệu hồi Lumiel SSS.
-- Chưa xác định mức độ cô đã tự nhận thức hoặc kiểm soát **hai năng lực sao chép và triệu hồi** ở đầu truyện. Không tự ý để các năng lực đó được phô diễn ngay.
+- Chưa xác định cơ chế, nguyên liệu/nguồn lực, giới hạn số lượng, tính tự chủ của sinh vật được tạo ra, điều kiện và chi phí của việc **tạo ra Lumiel SSS**.
+- Chưa xác định mức độ cô đã tự nhận thức hoặc kiểm soát **hai năng lực sao chép và sáng tạo Lumiel** ở đầu truyện. Không tự ý để các năng lực đó được phô diễn ngay.
 - Chưa xác định kỹ năng ngưng đọng thời gian có ảnh hưởng chính xác thế nào tới người sử dụng, vật thể và những Lumiel cao cấp khác ngoài chi tiết cảnh ga đã duyệt.
 - Chưa định hướng tuyến tình cảm; không tự ghép đôi.
 
@@ -43,3 +43,8 @@
 - Không tự ý đổi tên **Aeva** thành **Aevy**: người sáng tạo chọn **Aeva** có chủ đích do gợi liên tưởng đến Eva trong Kinh Thánh.
 - Không nhầm quê nhà **SeaWon** với thủ đô **Altera**.
 - Cấp bậc thế giới: `N → R → S → SS → SSS → RS+`. Chưa công bố danh tính cá thể RS+.
+
+## Ý nghĩa chiến lược đã xác nhận
+- Năng lực **tạo ra Lumiel SSS** được đánh giá là **nguy hiểm hơn cả ngưng đọng thời gian** xét ở tiềm năng bị khai thác cho mục tiêu quân sự.
+- Nếu một quốc gia quân sự bắt giữ và khai thác được năng lực này, họ có thể giành ưu thế áp đảo, thậm chí hướng tới bá quyền.
+- Đây là **nguy cơ/tiềm năng chiến lược**, không mặc định một quốc gia đã bắt được Aeva, có thể buộc cô sử dụng vô hạn, hoặc chắc chắn thống trị thế giới.
