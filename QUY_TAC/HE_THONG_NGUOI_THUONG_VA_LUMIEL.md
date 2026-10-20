@@ -67,3 +67,13 @@
 - Deviant **tự nguyện** ở khu Cy-tech quản thúc trong học viện để **chờ Aeva**, không phải vì Cy-tech đủ sức khống chế hắn. Mục tiêu quan trọng của hắn là **đánh thức ký ức Aeva**; giữ bí mật trong giai đoạn truyện hiện tại.
 - Deviant lạnh nhạt với nhân loại, thể hiện vẻ ngạo nghễ bằng **sức mạnh và hành động**, không bằng lời khiêu khích hay đối đáp dài dòng. Hắn thích xâm nhập hệ thống, thường dùng Atharal để hack.
 - Xem thêm: [Hồ sơ Lumiel SSS](../LUMIEL/HO_SO_LUMIEL_CAP_SSS.md) và [Deviant](../NHAN_VAT/DEVIANT.md).
+
+## 8. May Mắn chi thuật của Jenki — điều kiện kích hoạt (CANON)
+
+- **May Mắn chi thuật** là năng lực bị động, **chỉ tự kích hoạt khi chính chủ thể Jenki gặp nguy hiểm**.
+- **Nếu Jenki không gặp nguy hiểm, năng lực không kích hoạt**, kể cả khi đồng đội đang gặp nguy hiểm. Không được viết Jenki chủ động bật May Mắn theo ý muốn trong tình huống bình thường.
+- Ở **Level 1**, năng lực hỗ trợ Jenki né tránh hoặc thoát khỏi nguy hiểm trong phạm vi hiệu quả của cấp độ này; **không bảo đảm an toàn** trước nguy cơ vượt giới hạn.
+- Năng lực có khả năng phát triển theo level; **cơ chế, phạm vi và giới hạn cụ thể của các level tiếp theo chưa được chốt**.
+- **Hệ Đặc Biệt** bao gồm các dạng năng lực mà hệ thống máy móc hiện tại không thể đo lường, đánh giá đầy đủ. Không đồng nhất *hệ năng lực* với *cấp Lumiel* hoặc *level phát triển năng lực*.
+- **Khả năng tương lai:** Jenki đi chung đội có thể mang đến lợi thế thắng trận rất lớn, nhưng không vì thế mà bỏ qua điều kiện kích hoạt là **chính Jenki phải gặp nguy hiểm**. Chưa xác lập cơ chế ảnh hưởng đến đồng đội.
+- Cảnh kiểm tra ba lưỡi dao ở Chương 2 là ví dụ về một tình huống Jenki gặp nguy hiểm. Không tự thay đổi canon chương đã duyệt.
