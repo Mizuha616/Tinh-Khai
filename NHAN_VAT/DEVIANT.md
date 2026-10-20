@@ -20,7 +20,7 @@
 
 ## Năng lực
 
-1. **Dịch chuyển tức thời.**
+1. **Dịch chuyển tức thời:** Kỹ năng thuộc **Hệ Đặc Biệt**, chỉ dịch chuyển đến **vị trí nằm trong tầm nhìn của người sử dụng**. Chưa xác lập giới hạn khoảng cách cụ thể hoặc khả năng mang theo người khác.
 2. **Siêu sức mạnh.**
 3. **Ngưng đọng thời gian.**
 4. **Triệu hồi Lumiel SSS:** Triệu hồi **những sinh vật Lumiel SSS đã tồn tại sẵn**; **không** tạo mới các cá thể này.
