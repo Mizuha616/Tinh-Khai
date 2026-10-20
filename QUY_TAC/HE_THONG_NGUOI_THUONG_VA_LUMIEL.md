@@ -77,3 +77,13 @@
 - **Hệ Đặc Biệt** bao gồm các dạng năng lực mà hệ thống máy móc hiện tại không thể đo lường, đánh giá đầy đủ. Không đồng nhất *hệ năng lực* với *cấp Lumiel* hoặc *level phát triển năng lực*.
 - **Khả năng tương lai:** Jenki đi chung đội có thể mang đến lợi thế thắng trận rất lớn, nhưng không vì thế mà bỏ qua điều kiện kích hoạt là **chính Jenki phải gặp nguy hiểm**. Chưa xác lập cơ chế ảnh hưởng đến đồng đội.
 - Cảnh kiểm tra ba lưỡi dao ở Chương 2 là ví dụ về một tình huống Jenki gặp nguy hiểm. Không tự thay đổi canon chương đã duyệt.
+
+## 9. Phạm vi tác dụng May Mắn chi thuật — CANON bổ sung
+
+- Jenki thông minh, ban đầu nghi ngờ chính năng lực May Mắn của mình. Sau nhiều sự cố xảy ra gần bản thân, cậu quan sát, đối chiếu các khả năng và dần **tự phát hiện quy tắc bán kính tác dụng**. Không viết cậu lập tức hiểu mọi nguyên lý.
+- Ở **Level 1**, phạm vi ảnh hưởng có **bán kính 2 mét lấy Jenki làm trung tâm**. Bán kính có thể tăng khi năng lực lên level; **chưa chốt con số của các level cao hơn**.
+- **Điều kiện kích hoạt không đổi:** Jenki phải **đích thân gặp nguy hiểm**. Nếu chỉ người khác gặp nguy hiểm còn Jenki an toàn, May Mắn chi thuật không tự kích hoạt.
+- Khi kích hoạt, may mắn **chỉ tác động cục bộ trong vùng ảnh hưởng quanh Jenki**; một nhóm người đứng đủ gần có thể được hưởng lợi, nhưng **không lan vô hạn** ra toàn bộ đội hình hay không gian bên ngoài.
+- Về sau Jenki có thể **chủ động đặt chính mình vào nguy hiểm để tạo điều kiện kích hoạt**, nhưng cậu vẫn không thể bảo vệ người ở ngoài bán kính tác dụng.
+- **Ví dụ giới hạn:** Jenki ở trên một con thuyền **không đồng nghĩa** May Mắn có thể ngăn **cả con thuyền** chìm. Chỉ nhóm trong phạm vi ảnh hưởng quanh cậu có thể được hưởng hiệu quả phù hợp cấp độ.
+- Phạm vi và cấp độ là **hai giới hạn đồng thời**: có mặt trong bán kính không bảo đảm thoát khỏi nguy hiểm quá sức Level hiện tại; không mô tả năng lực thành chiến thắng tuyệt đối.
