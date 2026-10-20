@@ -40,3 +40,10 @@
 - [Quy tắc người thường và Lumiel](../QUY_TAC/HE_THONG_NGUOI_THUONG_VA_LUMIEL.md)
 - [Deviant](../NHAN_VAT/DEVIANT.md)
 - [Aeva Shine](../NHAN_VAT/AEVA_SHINE.md)
+
+## Quy tắc triệu hồi và quan hệ Deviant–Atharal (canon)
+
+- Deviant có thể triệu hồi Lumiel SSS đã từng gặp và tiếp xúc, nhưng **triệu hồi không trao quyền điều khiển hay bắt buộc phục tùng**. Đối tượng vẫn có ý chí riêng.
+- **Atharal quý mến Deviant**, nên **tự nguyện nghe lời và giúp hắn**. Sự hợp tác không phải hiệu ứng cưỡng chế của kỹ năng triệu hồi.
+- Không suy diễn rằng các Lumiel SSS khác, kể cả Vincent hoặc Aeva, sẽ phục tùng Deviant nếu được triệu hồi.
+- Chưa chốt cơ chế từ chối triệu hồi hoặc bản chất hiện diện của đối tượng được triệu hồi; không tự đặt luật mới.
