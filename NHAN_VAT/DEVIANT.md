@@ -83,3 +83,12 @@
 - Hiện tại Aeva chưa nhớ quá khứ, nên sự thân thuộc của Deviant không đồng nghĩa với việc Aeva có cùng nhận thức hoặc cảm giác.
 - Khi thể hiện sự dai dẳng và nghịch ngợm, cần giữ đồng thời hai mặt: Deviant rất quen ở cạnh cô, nhưng vẫn chú ý khi cô thể hiện giới hạn cá nhân.
 - Không tự xác lập quan hệ tình cảm hay chi tiết quá khứ chưa được tác giả công bố.
+
+## Định hướng tình cảm Chương 7 trở đi — tác giả xác nhận (2026-10-21)
+
+- **Sắc thái chủ đạo:** ngọt ngào nhưng vô tư, gần gũi đời thường; không thúc Aeva nhận ra tình yêu quá sớm.
+- Deviant chủ động chăm sóc Aeva trước khi Vincent có dịp tiếp cận: đưa thức ăn, cầm đồ, khoác áo, quan tâm bằng hành động ít lời. Với Deviant, đó là thói quen thân thuộc đã có từ trước; không cần phô trương hay giải thích.
+- Aeva đôi lúc nhận sự chăm sóc của Deviant gần như theo phản xạ, tiếp tục công việc hoặc nói chuyện như thường. Cô có thể vừa đáp lại vừa coi hắn như không khí; đây là **cảm giác thân thuộc vô thức**, chưa phải tình yêu trong nhận thức.
+- Aeva không lập tức nhớ nhung, tìm kiếm, hoặc cảm thấy trống trải mỗi khi Deviant vắng mặt. Cô vẫn có thể thấy hắn phiền và phản đối hành động vượt giới hạn, dù thỉnh thoảng cảm giác được hắn ôm ngủ không tệ như cô tưởng.
+- Người khác, đặc biệt Vincent, có thể nhận ra nghịch lý: Aeva nói hai người chưa thân nhưng lại tiếp nhận sự hiện diện của Deviant hết sức tự nhiên. **Đây là hướng phát triển**, không mặc định Vincent đã ghen hoặc đã tỏ tình.
+- Bảo toàn quyền chủ động và ranh giới của Aeva; phản xạ quen thuộc không đồng nghĩa đồng thuận vô điều kiện. Những chuyện xảy ra trong quá khứ chưa được công khai hay tự bổ sung.
