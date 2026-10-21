@@ -76,3 +76,10 @@
 - **Tình huống riêng tư tác giả đề xuất:** Có lần Aeva tắm xong, phát hiện Deviant đang thản nhiên đứng **trong phòng cô**. Đây là sự tự tiện vượt ranh giới riêng tư của Aeva, **không phải sự đồng thuận của cô**; khi viết, để Aeva có phản ứng và quyền đuổi hắn đi. Không tự thêm chi tiết nhìn trộm lúc tắm hoặc khỏa thân.
 - **Giới hạn logic:** Không mặc định hắn có thể dịch chuyển đến mọi nơi không cần nhìn thấy. Nếu cảnh đòi hỏi hắn hiện diện trong phòng, cách đi vào phải không trái quy tắc dịch chuyển đến vị trí trong tầm nhìn; chưa chốt phương thức cụ thể.
 - **Bí mật tác giả:** Động cơ sâu xa gắn với chờ Aeva và đánh thức ký ức đã xác nhận, nhưng nhận thức của Aeva và độc giả ở Chương 7 chưa được phép biết toàn bộ. Không tự chốt mối quan hệ tình cảm hai chiều.
+
+## Quan hệ Deviant và Aeva khi cô trở lại — xác nhận 2026-10-21
+
+- Deviant thực sự tôn trọng Aeva; vẻ tự nhiên quá mức của hắn bắt nguồn từ sự thân quen trong quá khứ và niềm vui khi cô đã trở lại, không phải thái độ coi thường cô.
+- Hiện tại Aeva chưa nhớ quá khứ, nên sự thân thuộc của Deviant không đồng nghĩa với việc Aeva có cùng nhận thức hoặc cảm giác.
+- Khi thể hiện sự dai dẳng và nghịch ngợm, cần giữ đồng thời hai mặt: Deviant rất quen ở cạnh cô, nhưng vẫn chú ý khi cô thể hiện giới hạn cá nhân.
+- Không tự xác lập quan hệ tình cảm hay chi tiết quá khứ chưa được tác giả công bố.
