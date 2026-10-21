@@ -52,3 +52,13 @@ Ví dụ này cho thấy Aeva có thể tái tạo được hiệu quả bề ng
 **Chưa xác lập:** chi phí, giới hạn số kỹ năng, thời gian duy trì cụ thể, điều kiện phụ, hoặc quy tắc tăng trưởng chi tiết. Không tự bổ sung các thiết lập này khi viết truyện.
 
 **Ngữ cảnh kể chuyện:** Cơ chế được tác giả chốt trong quá trình chuẩn bị Chương 5, nơi Aeva lần đầu phát hiện Copy Skill; chưa mặc định Aeva hoặc nhân vật khác đã hiểu được toàn bộ cơ chế này.
+
+## Lần biểu hiện đầu tiên trong truyện — Chương 5 (confirmed)
+
+- **Nguồn:** [Chương 5 — Thiên Thần Rơi](../chapters/CHUONG_05_THIEN_THAN_ROI.md).
+- **Điều kiện quan sát:** Aeva tình cờ xem Eliza sử dụng đôi cánh tím tại sân tập ngoại ô. Cô bị khơi dậy khát vọng được bay, không hiểu cơ chế điều khiển cánh.
+- **Biểu hiện:** Aeva hiện thực hóa đôi cánh trắng phát sáng, có thể cất cánh và đạt tốc độ cao, nhưng không kiểm soát được tốc độ, hướng chuyển động hay cách hạ xuống.
+- **Sự cố:** Những chiếc lông ánh sáng tan dần, đôi cánh biến mất giữa không trung, Aeva rơi và được Deviant cứu bằng dịch chuyển tức thời.
+- **Lần thử sau:** Aeva cố tái hiện cánh trắng; chỉ xuất hiện ít hạt sáng yếu ớt rồi tắt.
+- **Nhận thức nhân vật:** Aeva **mới đặt giả thuyết** rằng mình có thể học kỹ năng từ quan sát; cô chưa biết tên, bản chất hay giới hạn thực sự của Copy Skill.
+- **Quy tắc kể chuyện:** Không quy kết đôi cánh trắng là sức mạnh Ngụy Thiên Thần ngay trong nhận thức của học viên hoặc của Aeva ở thời điểm này.
