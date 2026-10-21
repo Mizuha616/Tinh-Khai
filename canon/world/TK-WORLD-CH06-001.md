@@ -40,7 +40,7 @@ Sau buổi thẩm định do Vincent chủ động sắp xếp, hội đồng gi
 - Jenki và Aeva chưa thân, Jenki có thể gọi **Aeva Shine**; Jenki chỉ biết **Vincent Van Valery** qua giới thương nhân, chưa thân.
 - Aeva dè dặt với Vincent nhưng lễ phép, tự nhiên với các giáo sư; Vincent ít nói, làm nhiều, là người thừa kế tương lai nên quan tâm lợi ích chiến lược, rủi ro bỏ sót nhân tài và sự chú ý bất thường của Deviant với Aeva.
 
-## CẢNH BÁO LIÊN TỤC CANON — CẦN TÁC GIẢ QUYẾT ĐỊNH
-Quy tắc cũ tại `QUY_TAC/HE_THONG_NGUOI_THUONG_VA_LUMIEL.md` mục 8–10 đã **confirmed**: May Mắn chi thuật Level 1 của Jenki chỉ kích hoạt khi **chính Jenki gặp nguy hiểm**, phạm vi **bán kính 2 m**; chỉ những người trong phạm vi khi kích hoạt mới có thể hưởng lợi.
-
-Bản văn Chương 6 được tác giả duyệt mô tả những trường hợp may mắn và phép thử đồng xu/xúc xắc/số ngẫu nhiên trong điều kiện không nêu rõ nguy hiểm, dễ bị hiểu là hiệu ứng thường trực. **Chưa được phép tự ý xóa quy tắc cũ hoặc sửa bản văn đã duyệt.** Cần tác giả phân xử cơ chế trước khi dùng chi tiết này suy rộng sang các chương tiếp theo. Mốc 2 m giữ nguyên là canon đã có; Chương 6 không xác lập mốc số mới.
+## Bán kính tác dụng của Jenki — cập nhật của tác giả
+- **Chưa xác nhận bán kính cụ thể** ở Level 1. Mốc 2 m được xem là dự kiến cũ, không phải số đo canon.
+- Jenki đã nhận ra khả năng tồn tại phạm vi tác dụng, nhưng phép đo chính xác sẽ thực hiện **ở các chương sau**, dựa trên phương pháp đánh giá mới được các giáo sư thông qua trong Chương 6.
+- Giữ nguyên chương đã duyệt. Quy tắc trước đây về điều kiện kích hoạt khi Jenki gặp nguy hiểm vẫn được ghi ở quy tắc thế giới; cảnh nghiên cứu xác suất bình thường trong Chương 6 có điểm cần đối chiếu riêng, chưa tự diễn giải thành quy tắc mới.
