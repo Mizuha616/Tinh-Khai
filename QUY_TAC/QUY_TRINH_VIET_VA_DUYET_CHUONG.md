@@ -8,3 +8,5 @@
 4. Trước khi báo hoàn tất việc lưu, kiểm chứng lại tệp trên GitHub và tài liệu Google Docs trong đúng thư mục.
 5. Mọi bí mật hậu trường chỉ dùng để giữ logic; **không kể lộ trong chương** trước thời điểm tác giả chỉ định. Riêng Chương 3: không nhắc sự can thiệp của Deviant/Atharal.
 6. Văn phong ưu tiên ngắn gọn, súc tích, đủ ý và liên tục với chương canon trước.
+7. **Bắt buộc đọc và đối chiếu metadata, hồ sơ nhân vật, thế giới, timeline và chương canon liên quan trên GitHub/Drive trước khi triển khai ý tưởng, đề cương hay bản nháp chương mới.** Trí nhớ chỉ hỗ trợ, không thay nguồn gốc. Phân biệt rõ `confirmed`, `proposed`, `author_only`, `in_story` và tri thức thực tế của nhân vật tại thời điểm diễn biến. Nếu không truy cập/kiểm chứng được, phải nêu rõ điều chưa xác minh; tuyệt đối không điền bằng phỏng đoán.
+8. **Đối chiếu riêng chỉ số Lumirith/cấp hiển thị và cấp thật của nhân vật**: Jenki 55%/SS (Chương 6); Aeva có hồ sơ học viện 30%/R, trong khi cấp SSS là bí mật tác giả. Bán kính năng lực Jenki chưa xác nhận. Xem `NHAN_VAT/JENKI.md`, `NHAN_VAT/AEVA_SHINE.md`, `canon/world/TK-WORLD-CH06-001.md`.
