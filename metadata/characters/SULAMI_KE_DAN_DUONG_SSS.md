@@ -20,9 +20,12 @@ updated_at: 2026-10-21
 - Chiều cao: **4 mét**.
 - Sừng: **dài 2 mét**.
 - Khả năng đã xác lập: **bay rất nhanh và bơi rất nhanh**.
+- Nguồn gốc: **Sulami do Aeva tạo ra trong quá khứ**. Aeva hiện tại chưa nhớ điều này.
+- Quan hệ: **kiêu hãnh, tỏ thái độ với Deviant; thân thiện và dịu dàng với Aeva** vì cô là người tạo ra nó.
+- Deviant **chỉ triệu hồi Sulami ra sử dụng**, không phải người tạo ra Sulami.
 - Cảm hứng tên: liên tưởng đến **Tsunami** (sóng thần), phù hợp màu lông và vóc dáng lớn.
 
 ## Vai trò dự kiến ở Chương 11 (DRAFT)
 - Deviant sử dụng Sulami đưa Aeva bay tới gần tọa độ cố định của **Vùng Hỗn Nguyên**.
 - Sau khi đến gần tọa độ, Deviant **mở cổng** vào Vùng Hỗn Nguyên; không triệu hồi hoặc di chuyển bản thân Vùng Hỗn Nguyên.
-- Chưa xác định Sulami có ý thức, tính cách, năng lực định vị đặc biệt, khả năng xuyên không gian, hay mối quan hệ ràng buộc cụ thể với Deviant. Không tự suy diễn.
+- Sulami có cá tính kiêu hãnh với Deviant và thân thiện với Aeva. Chưa xác định năng lực định vị đặc biệt, khả năng xuyên không gian, hay cơ chế triệu hồi cụ thể; không tự suy diễn.
