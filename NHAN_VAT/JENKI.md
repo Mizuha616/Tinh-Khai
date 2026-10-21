@@ -13,6 +13,11 @@ updated_at: 2026-10-21
 
 # JENKI — Hồ sơ dữ liệu canon (đến Chương 6)
 
+## Cập nhật Chương 10 (canon)
+- Sau ba tháng huấn luyện, phương pháp thẩm định xác nhận bán kính ảnh hưởng được mở rộng từ **2 m lên 5 m** qua các phép thử. Mốc 2 m là mốc giai đoạn đo trong Chương 10, **không** được hồi tố thành kết quả chính thức Chương 6.
+- Nhờ kiến giải nghiên cứu và tác dụng tăng xác suất kết quả thuận lợi, Jenki được **mời làm cố vấn nghiên cứu cho các giáo sư**. Điều này không có nghĩa mọi thí nghiệm đều thành công tuyệt đối.
+- Tại dạ hội Chương 10, Jenki lần đầu rung động trước Aeva; chưa có lời tỏ tình.
+
 ## Kết quả đo đã xác nhận
 - **Lumirith: 55%.**
 - **Phân loại: Lumiel cấp SS.**
@@ -24,7 +29,7 @@ updated_at: 2026-10-21
 - Jenki phát hiện những sự kiện may mắn có tần suất bất thường; nghiên cứu đồng xu, xúc xắc, số ngẫu nhiên, đối chứng và người tình nguyện qua nhiều tuần.
 - Những người ở gần cậu cũng có thể gặp hiệu ứng tương tự; biểu hiện suy giảm theo khoảng cách.
 - **Năng lực liên quan đến may mắn / ảnh hưởng xác suất**, nhưng cơ chế, điều kiện kích hoạt chính xác và giới hạn chưa được kết luận đầy đủ.
-- **Bán kính tác dụng chưa đo chính xác và chưa được chốt canon.** Không ghi mốc 2 m như kết quả chính thức. Phương pháp thẩm định mới từ Chương 6 có thể được dùng để đo ở chương sau.
+- **Tại thời điểm Chương 6**, bán kính tác dụng chưa đo chính xác; **đến Chương 10**, kết quả thẩm định cho thấy phạm vi được mở rộng từ 2 m lên 5 m.
 - Có điểm cần đối chiếu giữa hiện tượng may mắn trong các thử nghiệm Chương 6 và quy tắc kích hoạt khi gặp nguy hiểm đã tồn tại; **không tự hòa giải hoặc sửa canon** khi chưa có quyết định tác giả.
 
 ## Bối cảnh và nhận thức
