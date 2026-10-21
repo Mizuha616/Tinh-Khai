@@ -78,10 +78,10 @@
 - **Khả năng tương lai:** Jenki đi chung đội có thể mang đến lợi thế thắng trận rất lớn, nhưng không vì thế mà bỏ qua điều kiện kích hoạt là **chính Jenki phải gặp nguy hiểm**. Chưa xác lập cơ chế ảnh hưởng đến đồng đội.
 - Cảnh kiểm tra ba lưỡi dao ở Chương 2 là ví dụ về một tình huống Jenki gặp nguy hiểm. Không tự thay đổi canon chương đã duyệt.
 
-## 9. Phạm vi tác dụng May Mắn chi thuật — CANON bổ sung
+## 9. Phạm vi tác dụng May Mắn chi thuật — CANON (chưa chốt bán kính)
 
 - Jenki thông minh, ban đầu nghi ngờ chính năng lực May Mắn của mình. Sau nhiều sự cố xảy ra gần bản thân, cậu quan sát, đối chiếu các khả năng và dần **tự phát hiện quy tắc bán kính tác dụng**. Không viết cậu lập tức hiểu mọi nguyên lý.
-- Ở **Level 1**, phạm vi ảnh hưởng có **bán kính 2 mét lấy Jenki làm trung tâm**. Bán kính có thể tăng khi năng lực lên level; **chưa chốt con số của các level cao hơn**.
+- Ở **Level 1**, năng lực có phạm vi ảnh hưởng hữu hạn lấy Jenki làm trung tâm. **Bán kính chính xác chưa được xác nhận**; số đo 2 mét từng được đề xuất chỉ là thông số tạm thời, không phải canon. Jenki sẽ được đo chuẩn xác ở các chương sau bằng quy trình đánh giá mới mà hội đồng giáo sư thông qua ở Chương 6. Bán kính có thể thay đổi khi năng lực lên level; chưa chốt số liệu các level.
 - **Điều kiện kích hoạt không đổi:** Jenki phải **đích thân gặp nguy hiểm**. Nếu chỉ người khác gặp nguy hiểm còn Jenki an toàn, May Mắn chi thuật không tự kích hoạt.
 - Khi kích hoạt, may mắn **chỉ tác động cục bộ trong vùng ảnh hưởng quanh Jenki**; một nhóm người đứng đủ gần có thể được hưởng lợi, nhưng **không lan vô hạn** ra toàn bộ đội hình hay không gian bên ngoài.
 - Về sau Jenki có thể **chủ động đặt chính mình vào nguy hiểm để tạo điều kiện kích hoạt**, nhưng cậu vẫn không thể bảo vệ người ở ngoài bán kính tác dụng.
@@ -92,7 +92,7 @@
 
 - **Các kỹ năng thuộc Hệ Đặc Biệt đều có vùng/phạm vi ảnh hưởng**, nhưng **mỗi kỹ năng có cơ chế xác định vùng tác động riêng**; không áp dụng cùng một bán kính cho tất cả.
 - Hệ Đặc Biệt được xác định bởi tính chất kỹ năng không thể phân loại đơn thuần theo tấn công, phòng thủ hay hỗ trợ; nhiều kỹ năng đa dụng. Các hệ thống đo hiện tại không đo lường/phân loại đầy đủ hiệu ứng đặc biệt này.
-- **Jenki — May Mắn chi thuật:** Level 1 có vùng ảnh hưởng bán kính **2 m** quanh Jenki, và **chỉ kích hoạt khi chính Jenki gặp nguy hiểm**.
+- **Jenki — May Mắn chi thuật:** Level 1 có vùng ảnh hưởng **chưa đo chính xác** quanh Jenki, và **chỉ kích hoạt khi chính Jenki gặp nguy hiểm**.
 - **Aeva — Sao chép kỹ năng:** Thuộc Hệ Đặc Biệt, bị giới hạn phạm vi; **chưa chốt con số và cách xác định phạm vi**.
 - **Deviant — Dịch chuyển tức thời:** Thuộc Hệ Đặc Biệt; điểm đến **phải nằm trong tầm nhìn của người sử dụng**. Không tự suy ra bán kính tối đa.
 - **Đi vào giấc mơ:** Một kỹ năng Hệ Đặc Biệt sẽ do một **nhân vật xuất hiện về sau** sở hữu; **có vùng ảnh hưởng riêng tùy cơ chế kỹ năng**, nhưng chưa xác định khoảng cách, hình dạng/phương thức xác định vùng, điều kiện kích hoạt, khả năng tương tác trong mơ hay danh tính người sở hữu.
