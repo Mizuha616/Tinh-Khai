@@ -19,10 +19,12 @@ updated_at: 2026-10-21
 - **Nguồn gốc:** **Do Aeva tạo ra**.
 - **Hình thái:** Nam, vẻ đẹp thần thánh siêu thực.
 - **Ngoại hình:** Tóc trắng, mắt xanh.
+- **Tính cách:** Siêu dịu dàng, hiền hòa.
+- **Nguồn gốc tên gọi:** Khi vừa tạo ra Oh, Aeva thốt lên **“Oh”** vì kinh ngạc trước tạo vật của mình; từ đó hắn mang tên Oh.
 - **Biểu hiện:** Bay lơ lửng, tỏa ánh sáng trăng dịu nhẹ.
 - **Vai trò năng lực:** Chữa trị, siêu phục hồi; vừa **tank** (chống chịu) vừa **buff** (hỗ trợ/tăng cường).
 
 ## Giới hạn thông tin
-- Chưa xác lập tuổi, chiều cao, tính cách, cơ chế và giới hạn hồi phục, mức độ chống chịu, các loại buff, quan hệ riêng với Deviant hoặc thời điểm xuất hiện trong truyện.
+- Chưa xác lập tuổi, chiều cao, cơ chế và giới hạn hồi phục, mức độ chống chịu, các loại buff, quan hệ riêng với Deviant hoặc thời điểm xuất hiện trong truyện.
 - Aeva hiện tại chưa nhớ quá khứ thật. **Không để NPC kể toàn bộ thân phận/quá khứ cho Aeva**; cô phải tự thức tỉnh.
 - Không tự thêm năng lực tấn công, hồi sinh, bất tử hoặc đặc tính khác khi tác giả chưa xác nhận.
