@@ -4,14 +4,14 @@ id: TK-CHAR-JENKI-001
 type: CHARACTER
 topic: "Jenki — Lumiel may mắn và dữ liệu thức tỉnh"
 characters: [Jenki, Aeva Shine, Vincent Van Valery]
-source: "canon/chapters/CHUONG_06_NGOAI_DU_DOAN.md"
+source: "canon/chapters/CHUONG_06_NGOAI_DU_DOAN.md; canon/chapters/CHUONG_10_DA_HOI_ANH_SAO.md"
 status: confirmed
 visibility: author_only
-keywords: [Jenki, lumirith-55, cap-SS, may-man, xac-suat, ban-kinh-chua-do, chuong-6]
+keywords: [Jenki, lumirith-55, cap-SS, may-man, xac-suat, ban-kinh-5m, chuong-6, chuong-10, co-van-nghien-cuu]
 updated_at: 2026-10-21
 ---
 
-# JENKI — Hồ sơ dữ liệu canon (đến Chương 6)
+# JENKI — Hồ sơ dữ liệu canon (đến Chương 10)
 
 ## Cập nhật Chương 10 (canon)
 - Sau ba tháng huấn luyện, phương pháp thẩm định xác nhận bán kính ảnh hưởng được mở rộng từ **2 m lên 5 m** qua các phép thử. Mốc 2 m là mốc giai đoạn đo trong Chương 10, **không** được hồi tố thành kết quả chính thức Chương 6.
