@@ -7,72 +7,86 @@
     {
       "source": "NHAN_VAT/AEVA_SHINE.md",
       "codex": "CODEX/SSS/NHAN_VAT/AEVA_SHINE.md",
-      "source_blob_sha": "4090a54260de77eb33e9a965c3034bfd4ccd6a67"
+      "source_blob_sha": "4090a54260de77eb33e9a965c3034bfd4ccd6a67",
+      "last_verified_sha": "4090a54260de77eb33e9a965c3034bfd4ccd6a67"
     },
     {
       "source": "NHAN_VAT/DEVIANT.md",
       "codex": "CODEX/SSS/NHAN_VAT/DEVIANT.md",
-      "source_blob_sha": "95a906ae83d98daa528df5a2820aa0602a36effe"
+      "source_blob_sha": "e132a50764e3faf08c815113bb7964a46b5e0bd4",
+      "last_verified_sha": "e132a50764e3faf08c815113bb7964a46b5e0bd4"
     },
     {
       "source": "NHAN_VAT/VINCENT_VAN_VALERY.md",
       "codex": "CODEX/SSS/NHAN_VAT/VINCENT_VAN_VALERY.md",
-      "source_blob_sha": "c50055f33e4427a3fdcfacc85d8be5e515d7a1fc"
+      "source_blob_sha": "c50055f33e4427a3fdcfacc85d8be5e515d7a1fc",
+      "last_verified_sha": "c50055f33e4427a3fdcfacc85d8be5e515d7a1fc"
     },
     {
       "source": "metadata/characters/OH_THAN_MAT_TRANG_SSS.md",
       "codex": "CODEX/SSS/THUC_THE/OH_THAN_MAT_TRANG_SSS.md",
-      "source_blob_sha": "4230b571ea0ac2096bf5a445de8b9a94a5055a01"
+      "source_blob_sha": "4230b571ea0ac2096bf5a445de8b9a94a5055a01",
+      "last_verified_sha": "4230b571ea0ac2096bf5a445de8b9a94a5055a01"
     },
     {
       "source": "metadata/characters/SULAMI_KE_DAN_DUONG_SSS.md",
       "codex": "CODEX/SSS/THUC_THE/SULAMI_KE_DAN_DUONG_SSS.md",
-      "source_blob_sha": "7cca646f2135e631637af56689cd77d074e1fad0"
+      "source_blob_sha": "76ed4eab8f3610a84173087bfb9140ecbcb28968",
+      "last_verified_sha": "76ed4eab8f3610a84173087bfb9140ecbcb28968"
     },
     {
       "source": "metadata/worldbuilding/VUNG_HON_NGUYEN_SSS.md",
       "codex": "CODEX/SSS/KHONG_GIAN/VUNG_HON_NGUYEN_SSS.md",
-      "source_blob_sha": "82951513004e537eb19d1e3b5b696a29023e564c"
+      "source_blob_sha": "82951513004e537eb19d1e3b5b696a29023e564c",
+      "last_verified_sha": "82951513004e537eb19d1e3b5b696a29023e564c"
     },
     {
       "source": "LUMIEL/HO_SO_LUMIEL_CAP_SSS.md",
       "codex": "CODEX/SSS/QUY_TAC/HO_SO_LUMIEL_CAP_SSS.md",
-      "source_blob_sha": "b57a0dc4d820aec7c1f4e344e277f98e54e508ac"
+      "source_blob_sha": "b57a0dc4d820aec7c1f4e344e277f98e54e508ac",
+      "last_verified_sha": "b57a0dc4d820aec7c1f4e344e277f98e54e508ac"
     },
     {
       "source": "QUY_TAC/HE_THONG_NGUOI_THUONG_VA_LUMIEL.md",
       "codex": "CODEX/SSS/QUY_TAC/HE_THONG_NGUOI_THUONG_VA_LUMIEL.md",
-      "source_blob_sha": "cb4f8138414010ec623f163901caf206f661276f"
+      "source_blob_sha": "cb4f8138414010ec623f163901caf206f661276f",
+      "last_verified_sha": "cb4f8138414010ec623f163901caf206f661276f"
     },
     {
       "source": "metadata/characters/deviant_combat_mechanics.md",
       "codex": "CODEX/SSS/QUY_TAC/DEVIANT_COMBAT_MECHANICS.md",
-      "source_blob_sha": "160c5e7210cc4ec21f0c0c6e46f8446f988f794c"
+      "source_blob_sha": "160c5e7210cc4ec21f0c0c6e46f8446f988f794c",
+      "last_verified_sha": "160c5e7210cc4ec21f0c0c6e46f8446f988f794c"
     },
     {
       "source": "metadata/lumiel_power_conversion_terminology.md",
       "codex": "CODEX/SSS/QUY_TAC/LUMIEL_POWER_CONVERSION_TERMINOLOGY.md",
-      "source_blob_sha": "f22cce12d99310bc424ee373054cb2ce99897354"
+      "source_blob_sha": "440dbeb6f7c067c1e6f29574032e839bcd723543",
+      "last_verified_sha": "440dbeb6f7c067c1e6f29574032e839bcd723543"
     },
     {
       "source": "NHAN_VAT/BANG_CAP_LUMIEL_NHAN_VAT.md",
       "codex": "CODEX/SSS/THAM_CHIEU/BANG_CAP_LUMIEL_NHAN_VAT.md",
-      "source_blob_sha": "b2a6522b2220f09fc69a1d3b8503c35ba3dc8900"
+      "source_blob_sha": "b2a6522b2220f09fc69a1d3b8503c35ba3dc8900",
+      "last_verified_sha": "b2a6522b2220f09fc69a1d3b8503c35ba3dc8900"
     },
     {
       "source": "metadata/timeline/TINH_KHAI_TIMELINE_BON_THOI_DAI_SECRET.md",
       "codex": "CODEX/SSS/THAM_CHIEU/TIMELINE_BON_THOI_DAI_SECRET.md",
-      "source_blob_sha": "8ff15a055a15f717d26a4168104f359c77c4bffc"
+      "source_blob_sha": "8ff15a055a15f717d26a4168104f359c77c4bffc",
+      "last_verified_sha": "8ff15a055a15f717d26a4168104f359c77c4bffc"
     },
     {
       "source": "metadata/chapters/chapter_13_ke_chim_day.md",
       "codex": "CODEX/SSS/THAM_CHIEU/CHUONG_13_METADATA.md",
-      "source_blob_sha": "dd16831eaa561d11cf4072946d74cdd3e4080829"
+      "source_blob_sha": "e57fcc6173aeaa584baabb2b603863a0e82ea2b2",
+      "last_verified_sha": "e57fcc6173aeaa584baabb2b603863a0e82ea2b2"
     },
     {
       "source": "CANON_CORE/LICH_SU_THE_GIOI.md",
       "codex": "CODEX/SSS/THAM_CHIEU/LICH_SU_THE_GIOI.md",
-      "source_blob_sha": "6624b3c990db7c700e1609472f7c1cea808c594c"
+      "source_blob_sha": "6624b3c990db7c700e1609472f7c1cea808c594c",
+      "last_verified_sha": "6624b3c990db7c700e1609472f7c1cea808c594c"
     }
   ],
   "authored_dossiers": [
@@ -80,5 +94,11 @@
     "CODEX/SSS/THUC_THE/MELDA.md",
     "CODEX/SSS/THAM_HOA/DEADLY_ANGEL.md",
     "CODEX/SSS/THAM_HOA/SUNKEN_MAN.md"
-  ]
+  ],
+  "last_verified_at": "2026-10-22",
+  "verification": {
+    "source_files": 14,
+    "byte_identical_source_and_copy": 14,
+    "mismatches": []
+  }
 }
