@@ -31,3 +31,8 @@ updated_at: 2026-10-22
 
 ## Lưu ý tình trạng lưu trữ
 Tác giả đã duyệt bản sửa trong hội thoại. Metadata này ghi quyết định canon; không thay thế bản toàn văn chương. Đã đối chiếu nguyên văn trích đoạn Sách Sáng Thế; **toàn văn Chương 13 vẫn chưa được lưu đầy đủ**, không được lấy metadata/tóm tắt thay thế bản đã duyệt.
+
+## Tiến độ lưu trang kinh văn 22/10/2026
+- Đã chèn chính xác tám đoạn kinh văn đã duyệt vào [trang riêng của Chương 13](../../canon/prefaces/CHUONG_13_THIEN_SU_HONG.md).
+- Đã trình bày kinh văn ở đầu [Google Doc hồ sơ Chương 13](https://docs.google.com/document/d/1brBEmmW-Qe93ua5MhJ_MMqm90tLDMGvkcLSFvpEVqpI/edit), trang A4 dọc, căn giữa và đặt ngắt trang trước phần còn lại.
+- **Chưa có toàn văn bản sửa đã duyệt** tại `canon/chapters/CHUONG_13_KE_CHIM_DAY.md` hoặc Google Docs; chưa được đánh dấu việc lưu trọn chương là hoàn tất.

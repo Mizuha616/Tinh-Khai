@@ -79,8 +79,8 @@
     {
       "source": "metadata/chapters/chapter_13_ke_chim_day.md",
       "codex": "CODEX/SSS/THAM_CHIEU/CHUONG_13_METADATA.md",
-      "source_blob_sha": "c1cf036d2127e787111a7d939feed72d91b096f5",
-      "last_verified_sha": "c1cf036d2127e787111a7d939feed72d91b096f5"
+      "source_blob_sha": "a96c914a9ee206e21ca9f20c6d04296d4f62e885",
+      "last_verified_sha": "a96c914a9ee206e21ca9f20c6d04296d4f62e885"
     },
     {
       "source": "CANON_CORE/LICH_SU_THE_GIOI.md",
@@ -114,5 +114,7 @@
       "canonical": "canon/chapters/CHUONG_12_DEM_KHONG_CO_ANH.md",
       "preserved_blob_sha": "3a3e20518d5246852436185f85bc9a64b775940e"
     }
-  }
+  },
+  "chapter_13_epigraph": "canon/prefaces/CHUONG_13_THIEN_SU_HONG.md",
+  "chapter_13_full_text_status": "not_available"
 }
