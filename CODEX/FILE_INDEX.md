@@ -31,6 +31,8 @@ updated_at: 2026-10-22
 | [canon/chapters/CHUONG_11_VUNG_HON_NGUYEN.md](../canon/chapters/CHUONG_11_VUNG_HON_NGUYEN.md) | Đọc được |
 | [canon/chapters/CHUONG_12_DEM_KHONG_CO_ANH.md](../canon/chapters/CHUONG_12_DEM_KHONG_CO_ANH.md) | Đọc được |
 
+| [canon/chapters/CHUONG_13_KE_CHIM_DAY.md](../canon/chapters/CHUONG_13_KE_CHIM_DAY.md) | Đã lưu canon toàn văn |
+
 ## Nhân vật
 
 | Tệp nguồn | Trạng thái truy xuất |
@@ -123,9 +125,9 @@ updated_at: 2026-10-22
 | 10 | [TINH KHẢI — Chương 10 — Dạ Hội Ánh Sao (Canon)](https://docs.google.com/document/d/1QUb7Dmjziuz8oiynuiJ6Tjvvi_S72NBF_UqAIJTaJpU/edit?usp=drivesdk) | Khớp nội dung GitHub sau chuẩn hóa ký hiệu dàn trang |
 | 11 | [TINH KHẢI — Chương 11 — Vùng Hỗn Nguyên (Canon)](https://docs.google.com/document/d/189sGLnmK05KZQkbKmEUp6uyLvN9oATCQIVagKVn3h7g/edit?usp=drivesdk) | Khớp nội dung GitHub sau chuẩn hóa ký hiệu dàn trang |
 | 12 | [TINH KHẢI — Chương 12 — Đêm Không Có Anh (Canon)](https://docs.google.com/document/d/1C63oevTya_rGfcY_ZCNAIKHmVO6P0cY5Ng1djV6Jn0s/edit?usp=drivesdk) | Khớp nội dung GitHub sau chuẩn hóa ký hiệu dàn trang |
-| 13 | [TINH KHẢI — Chương 13 — Kẻ Chìm Đáy (Hồ sơ canon + kinh văn; chờ toàn văn)](https://docs.google.com/document/d/1brBEmmW-Qe93ua5MhJ_MMqm90tLDMGvkcLSFvpEVqpI/edit?usp=drivesdk) | Đã bổ sung nguyên văn trang Sách Sáng Thế; vẫn thiếu toàn văn truyện |
+| 13 | [TINH KHẢI — Chương 13 — Kẻ Chìm Đáy (Canon)](https://docs.google.com/document/d/1brBEmmW-Qe93ua5MhJ_MMqm90tLDMGvkcLSFvpEVqpI/edit) | Đủ toàn văn + trang kinh văn; font Times New Roman |
 
 Thư mục: [Du an Tinh Khai](https://drive.google.com/drive/folders/1VGt23_TAC8ij5pqDSSzOWgVnRwJRckEo). Đối chiếu văn bản không xác nhận bố cục trang hoặc từng câu so với hội thoại duyệt gốc.
 
 ## Trang kinh văn đã lưu riêng
-- [Chương 13 — trang kinh văn Thiên Sứ Hồng](../canon/prefaces/CHUONG_13_THIEN_SU_HONG.md) — Đã đối chiếu toàn bộ 8 đoạn; phần văn xuôi Chương 13 chưa được phục hồi nguyên văn.
+- [Chương 13 — trang kinh văn Thiên Sứ Hồng](../canon/prefaces/CHUONG_13_THIEN_SU_HONG.md) — Đã đối chiếu toàn bộ 8 đoạn; toàn văn Chương 13 nay đã lưu tại `canon/chapters/CHUONG_13_KE_CHIM_DAY.md`.
