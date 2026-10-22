@@ -14,6 +14,7 @@ updated_at: 2026-10-22
 
 - [Codex Lumiel cấp SSS](SSS/README.md)
 - [Manifest nguồn và bản sao, gồm SHA gốc](SSS/MANIFEST.json)
+- [Báo cáo kiểm tra toàn repository ngày 22/10/2026](AUDIT_2026-10-22.md)
 - [Sách Sáng Thế — Thiên Sứ Hồng](../SACH_SANG_THE/THIEN_SU_HONG.md)
 - [Quy tắc đọc Codex trước khi viết](../metadata/rules/read_codex_lumiel_before_writing.md)
 

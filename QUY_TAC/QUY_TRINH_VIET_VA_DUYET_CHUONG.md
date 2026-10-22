@@ -12,3 +12,5 @@
 8. **Đối chiếu riêng chỉ số Lumirith/cấp hiển thị và cấp thật của nhân vật**: Jenki 55%/SS (Chương 6); Aeva có hồ sơ học viện 30%/R, trong khi cấp SSS là bí mật tác giả. Bán kính năng lực Jenki chưa xác nhận. Xem `NHAN_VAT/JENKI.md`, `NHAN_VAT/AEVA_SHINE.md`, `canon/world/TK-WORLD-CH06-001.md`.
 
 9. **Thư mục chương canon duy nhất:** mọi chương được duyệt phải lưu trong `canon/chapters/` với tên `CHUONG_XX_TEN_CHUONG.md` (hai chữ số cho số chương). Không tạo thêm thư mục `CHUONG/` hay `chapters/` ở gốc repository. Khi di chuyển tệp đã duyệt, giữ nguyên toàn văn và xác minh SHA/nội dung trước khi xóa bản cũ.
+
+10. **Bắt buộc đọc Sách Sáng Thế và toàn bộ Codex Lumiel liên quan trước mọi hoạt động viết Tinh Khải**, kể cả viết mới, đề cương, chỉnh sửa và bổ sung metadata. Bắt đầu từ [CODEX](../CODEX/README.md) và các tệp gốc Sách Sáng Thế. Nếu tìm kiếm không ra, phải duyệt cây thư mục, đường dẫn và lịch sử commit; không kết luận mất tệp khi chưa kiểm chứng.

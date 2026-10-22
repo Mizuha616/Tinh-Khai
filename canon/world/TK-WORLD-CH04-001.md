@@ -32,4 +32,4 @@ Khi Lumiel thi triển năng lực thông thường, họ **phóng thích năng 
 Tên hiển thị trong lời kể và hội thoại là **Vincent Van Valery**. Thông tin “đời thứ tư” là chi tiết dòng tộc/hồ sơ, **không** thêm ký hiệu La Mã “IV” vào tên nhân vật khi kể chuyện.
 
 ## Ghi chú phạm vi
-Ba quy tắc trên là canon đã được tác giả chốt, không phải đề xuất. Các tình tiết cụ thể của bản nháp Chương 4 vẫn chờ tác giả duyệt.
+Ba quy tắc trên là canon đã được tác giả chốt, không phải đề xuất. Chương 4 đã được tác giả duyệt; các tình tiết cụ thể phải đối chiếu bản Chương 4 canon.

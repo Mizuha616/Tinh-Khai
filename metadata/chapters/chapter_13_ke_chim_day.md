@@ -13,7 +13,7 @@ updated_at: 2026-10-22
 # Chương 13 — Kẻ Chìm Đáy (CANON - quyết định tác giả)
 
 ## Kết cấu
-1. Trang riêng trích **nguyên văn đã duyệt** từ *Sách Sáng Thế* của Church of Lumiel về Thiên Sứ Hồng. **Chưa khôi phục được nguyên văn**, tuyệt đối không thay bằng trích đoạn tự sáng tác.
+1. Trang riêng trích **nguyên văn đã duyệt** từ *Sách Sáng Thế* của Church of Lumiel về Thiên Sứ Hồng. **Đã khôi phục và đối chiếu nguyên văn** tại [Sách Sáng Thế — Thiên Sứ Hồng](../../SACH_SANG_THE/THIEN_SU_HONG.md), không tự sáng tác lại.
 2. Báo cáo Cy-tech khoa học, súc tích về Sunken Man, giới hạn trong dữ liệu con người biết.
 3. Góc nhìn Deviant đêm đối đầu và ký ức bi kịch của người máy trưởng.
 4. Phòng họp: Deviant còn mặc hoodie trắng vấy máu, yêu cầu Vincent lo an táng; Vincent bắt đầu đánh giá lại Deviant.
@@ -30,4 +30,4 @@ updated_at: 2026-10-22
 - Từ Deadly Angel đến Sunken Man không ghi nhận thảm họa SSS nào. Vùng đáy biển xuất hiện Sunken Man vốn được khảo sát không có điều kiện tích tụ Lumirith lớn; Vincent nghi ngờ có nguyên nhân chưa xác định, chưa kết luận thế lực chủ động.
 
 ## Lưu ý tình trạng lưu trữ
-Tác giả đã duyệt bản sửa trong hội thoại. Metadata này ghi quyết định canon; không thay thế bản toàn văn chương. Trích đoạn Sách Sáng Thế cần được đối chiếu bản gốc trước khi hoàn thiện ấn bản lưu trữ.
+Tác giả đã duyệt bản sửa trong hội thoại. Metadata này ghi quyết định canon; không thay thế bản toàn văn chương. Đã đối chiếu nguyên văn trích đoạn Sách Sáng Thế; **toàn văn Chương 13 vẫn chưa được lưu đầy đủ**, không được lấy metadata/tóm tắt thay thế bản đã duyệt.

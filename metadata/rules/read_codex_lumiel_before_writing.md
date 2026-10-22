@@ -25,5 +25,5 @@ Trước khi viết **bất cứ nội dung nào thuộc dự án Tinh Khải**,
 ## Tình trạng truy xuất lúc thiết lập quy tắc
 
 - Repository: `Mizuha616/Tinh-Khai`.
-- Codex gốc: **chưa xác minh được đường dẫn** tại thời điểm 2026-10-22; chưa được phép kết luận tệp không tồn tại.
-- Cần lập chỉ mục Codex/hồ sơ Lumiel sau khi truy vết thành công.
+- Codex đã được tổ chức tại [CODEX](../../CODEX/README.md), tập trung hồ sơ [Lumiel cấp SSS](../../CODEX/SSS/README.md).
+- Các hồ sơ nguồn được giữ lại và sao chép nguyên trạng vào Codex. Khi một bên đổi, phải đồng bộ bản còn lại và cập nhật manifest để chống sai lệch.

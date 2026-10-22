@@ -22,4 +22,4 @@ updated_at: 2026-10-21
 # Quy tắc nhịp thời gian liên quan — ghi chú biên tập Chương 9
 - Kỹ năng ngưng đọng thời gian của Aeva chỉ kéo dài **5 giây** ở giai đoạn hiện tại; mọi động tác và đối thoại diễn ra trong khoảng đó phải phù hợp thời lượng thật.
 - Với cảnh kết Chương 9, đưa thời điểm **“năm giây kết thúc”** lên trước đoạn đối thoại dài giữa Aeva và Deviant. Cảnh hôn ngắn có thể ở trong năm giây; hội thoại tiếp diễn khi thời gian đã trở lại.
-- Chỉnh sửa cảnh kết vẫn thuộc **DRAFT** của Chương 9, chưa phải canon chương.
+- Chương 9 đã được tác giả duyệt và lưu canon; nhãn DRAFT trong ghi chú cũ không còn phản ánh trạng thái hiện hành.

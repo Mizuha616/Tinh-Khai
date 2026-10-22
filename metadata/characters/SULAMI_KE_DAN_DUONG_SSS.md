@@ -25,7 +25,7 @@ updated_at: 2026-10-21
 - Deviant **chỉ triệu hồi Sulami ra sử dụng**, không phải người tạo ra Sulami.
 - Cảm hứng tên: liên tưởng đến **Tsunami** (sóng thần), phù hợp màu lông và vóc dáng lớn.
 
-## Vai trò dự kiến ở Chương 11 (DRAFT)
+## Vai trò đã xuất hiện trong Chương 11 canon
 - Deviant sử dụng Sulami đưa Aeva bay tới gần tọa độ cố định của **Vùng Hỗn Nguyên**.
 - Sau khi đến gần tọa độ, Deviant **mở cổng** vào Vùng Hỗn Nguyên; không triệu hồi hoặc di chuyển bản thân Vùng Hỗn Nguyên.
 - Sulami có cá tính kiêu hãnh với Deviant và thân thiện với Aeva. Chưa xác định năng lực định vị đặc biệt, khả năng xuyên không gian, hay cơ chế triệu hồi cụ thể; không tự suy diễn.
