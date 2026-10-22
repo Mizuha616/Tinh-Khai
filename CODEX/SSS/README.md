@@ -42,7 +42,7 @@ updated_at: 2026-10-22
 - [Bảng cấp Lumiel nhân vật](THAM_CHIEU/BANG_CAP_LUMIEL_NHAN_VAT.md)
 - [Timeline bí mật bốn thời đại](THAM_CHIEU/TIMELINE_BON_THOI_DAI_SECRET.md)
 - [Lịch sử thế giới](THAM_CHIEU/LICH_SU_THE_GIOI.md)
-- [Metadata Chương 13](THAM_CHIEU/CHUONG_13_METADATA.md)
+- [**Toàn văn Chương 13 canon**](../../canon/chapters/CHUONG_13_KE_CHIM_DAY.md) · [Metadata Chương 13](THAM_CHIEU/CHUONG_13_METADATA.md)
 - [Chương 11](../../canon/chapters/CHUONG_11_VUNG_HON_NGUYEN.md) · [Chương 12](../../canon/chapters/CHUONG_12_DEM_KHONG_CO_ANH.md)
 - [Kinh văn Thiên Sứ Hồng](../../SACH_SANG_THE/THIEN_SU_HONG.md)
 
@@ -57,4 +57,4 @@ updated_at: 2026-10-22
 - [Liên tục Chương 12](../../metadata/chapter_12_continuity.md)
 - [Tất cả chương, hồ sơ, quy tắc và metadata khác](../FILE_INDEX.md)
 
-**Quy tắc tra cứu:** Hồ sơ gốc có ghi chú theo từng giai đoạn; đọc cập nhật mới hơn đúng thời điểm truyện. Thiết lập được chốt chưa đồng nghĩa đã xuất hiện trong chương. Không xem metadata Chương 13 là toàn văn.
+**Quy tắc tra cứu:** Hồ sơ gốc có ghi chú theo từng giai đoạn; đọc cập nhật mới hơn đúng thời điểm truyện. Thiết lập được chốt chưa đồng nghĩa đã xuất hiện trong chương. Toàn văn Chương 13 đã được lưu ở `canon/chapters/`; metadata chỉ dùng để tra cứu.
