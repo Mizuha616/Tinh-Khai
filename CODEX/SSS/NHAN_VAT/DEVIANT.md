@@ -94,3 +94,5 @@
 - Người khác, đặc biệt Vincent, có thể nhận ra nghịch lý: Aeva bảo hai người không thân nhưng lại tiếp nhận sự hiện diện và chăm sóc của Deviant khá tự nhiên. Đây là hướng phát triển, chưa mặc định Vincent ghen hoặc đã tỏ tình.
 - **Giới hạn năng lực:** các cảnh bế/đưa đi bằng dịch chuyển phải tôn trọng quy tắc hiện có về điểm đến trong tầm nhìn; không tự mở rộng năng lực.
 - Giữ bí mật về quá khứ và chưa chốt quan hệ chính thức giữa hai người cho tới khi tác giả duyệt.
+
+> **Mốc tra cứu 22/10/2026:** Hồ sơ này giữ các ghi chú theo giai đoạn. Trước khi dùng các mục “chưa xác lập” hoặc quy tắc cũ, đối chiếu [cập nhật canon hiện hành](https://github.com/Mizuha616/Tinh-Khai/blob/main/CODEX/SSS/CAP_NHAT_CANON.md) và nguồn chương tương ứng; không hồi tố sửa chương đã duyệt.

@@ -5,12 +5,16 @@ type: WORLD
 topic: Danh mục Lumiel cấp SSS
 status: confirmed
 visibility: author_only
+characters: [Aeva Shine, Deviant, Vincent Van Valery, Atharal, Melda, Oh, Sulami, Henry Hampton]
+keywords: [Codex, Lumiel, SSS, hồ sơ, nguồn]
 source: Đối chiếu canon và metadata GitHub đến 2026-10-22
 updated_at: 2026-10-22
 ---
 # CODEX — LUMIEL CẤP SSS
 
 **10 hồ sơ/đối tượng có căn cứ trong canon hoặc thiết lập được tác giả xác nhận.** Phân biệt **cấp năng lực nhân vật** và **cấp thảm họa**; không tự áp dụng tiêu chí giống hệt nhau.
+
+**Đọc trước:** [Mốc canon hiện hành](CAP_NHAT_CANON.md), rồi tra hồ sơ và [chỉ mục nguồn đầy đủ](../FILE_INDEX.md).
 
 ## Nhân vật
 - [Aeva Shine](NHAN_VAT/AEVA_SHINE.md) — sức mạnh thật SSS; hồ sơ học viện R
@@ -39,7 +43,18 @@ updated_at: 2026-10-22
 - [Timeline bí mật bốn thời đại](THAM_CHIEU/TIMELINE_BON_THOI_DAI_SECRET.md)
 - [Lịch sử thế giới](THAM_CHIEU/LICH_SU_THE_GIOI.md)
 - [Metadata Chương 13](THAM_CHIEU/CHUONG_13_METADATA.md)
-- [Chương 11](../../chapters/CHUONG_11_VUNG_HON_NGUYEN.md) · [Chương 12](../../chapters/CHUONG_12_DEM_KHONG_CO_ANH.md)
+- [Chương 11](../../canon/chapters/CHUONG_11_VUNG_HON_NGUYEN.md) · [Chương 12](../../canon/chapters/CHUONG_12_DEM_KHONG_CO_ANH.md)
 - [Kinh văn Thiên Sứ Hồng](../../SACH_SANG_THE/THIEN_SU_HONG.md)
 
-**Lưu ý:** Những tệp sao từ metadata có thể chứa ghi chú cũ về trạng thái DRAFT; khi tra cứu trạng thái hiện hành phải đối chiếu chương canon mới nhất và manifest. Sự kiện chưa được viết thành chương phải phân biệt với canon đã xuất bản.
+## Metadata bổ sung cần đọc theo chủ đề
+
+- [Aeva — cơ chế Copy Skill](../../canon/world/AEVA_COPY_SKILL.md)
+- [Deviant — phụ lục Chương 5](../../canon/characters/DEVIANT_CH05_ADDENDUM.md)
+- [Quan hệ và xưng hô Chương 8](../../canon/characters/DEVIANT_AEVA_XUNG_HO_CH08.md)
+- [Xưng hô từ Chương 10](../../metadata/aeva_deviant_pronouns_ch10.md)
+- [Dạ hội, Atharal và bức tranh Sáng Thế](../../canon/world/CH10_BALL_AND_GENESIS_PAINTING.md)
+- [Giới hạn tri thức Cy-tech ở Chương 11](../../metadata/canon/CHUONG_11_QUY_TAC_NHAN_THUC_CYTECH.md)
+- [Liên tục Chương 12](../../metadata/chapter_12_continuity.md)
+- [Tất cả chương, hồ sơ, quy tắc và metadata khác](../FILE_INDEX.md)
+
+**Quy tắc tra cứu:** Hồ sơ gốc có ghi chú theo từng giai đoạn; đọc cập nhật mới hơn đúng thời điểm truyện. Thiết lập được chốt chưa đồng nghĩa đã xuất hiện trong chương. Không xem metadata Chương 13 là toàn văn.

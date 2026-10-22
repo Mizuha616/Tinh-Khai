@@ -4,7 +4,7 @@ id: CODEX-SSS-MELDA
 type: CHARACTER
 topic: Melda
 characters: [Melda, Aeva, Deviant]
-source: [metadata/timeline/TINH_KHAI_TIMELINE_BON_THOI_DAI_SECRET.md, chapters/CHUONG_11_VUNG_HON_NGUYEN.md]
+source: [metadata/timeline/TINH_KHAI_TIMELINE_BON_THOI_DAI_SECRET.md, canon/chapters/CHUONG_11_VUNG_HON_NGUYEN.md]
 status: confirmed
 visibility: author_only
 keywords: [Melda, SSS, hội họa, nhà thiết kế]
@@ -18,4 +18,4 @@ updated_at: 2026-10-22
 - **Tính cách đã thể hiện:** có lúc bực mình với Deviant vì bị làm phiền, rất dịu dàng với Aeva; có thể trở thành hình bóng người mẹ đối với cô.
 - **Chưa chốt:** giới hạn sáng tạo, vật liệu, thời lượng tồn tại, chi phí năng lực.
 
-Nguồn: [Timeline bốn thời đại](../../../metadata/timeline/TINH_KHAI_TIMELINE_BON_THOI_DAI_SECRET.md), [Chương 11](../../../chapters/CHUONG_11_VUNG_HON_NGUYEN.md). Giữ bí mật tác giả, không cho Aeva biết trước.
+Nguồn: [Timeline bốn thời đại](../../../metadata/timeline/TINH_KHAI_TIMELINE_BON_THOI_DAI_SECRET.md), [Chương 11](../../../canon/chapters/CHUONG_11_VUNG_HON_NGUYEN.md). Giữ bí mật tác giả, không cho Aeva biết trước.

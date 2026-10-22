@@ -7,20 +7,20 @@
     {
       "source": "NHAN_VAT/AEVA_SHINE.md",
       "codex": "CODEX/SSS/NHAN_VAT/AEVA_SHINE.md",
-      "source_blob_sha": "4090a54260de77eb33e9a965c3034bfd4ccd6a67",
-      "last_verified_sha": "4090a54260de77eb33e9a965c3034bfd4ccd6a67"
+      "source_blob_sha": "9a4af7b5c0dfcf80460c4ace3674a2093edfb81d",
+      "last_verified_sha": "9a4af7b5c0dfcf80460c4ace3674a2093edfb81d"
     },
     {
       "source": "NHAN_VAT/DEVIANT.md",
       "codex": "CODEX/SSS/NHAN_VAT/DEVIANT.md",
-      "source_blob_sha": "e132a50764e3faf08c815113bb7964a46b5e0bd4",
-      "last_verified_sha": "e132a50764e3faf08c815113bb7964a46b5e0bd4"
+      "source_blob_sha": "50a94fe5426bcc31b813da832dd62f00d364dcfe",
+      "last_verified_sha": "50a94fe5426bcc31b813da832dd62f00d364dcfe"
     },
     {
       "source": "NHAN_VAT/VINCENT_VAN_VALERY.md",
       "codex": "CODEX/SSS/NHAN_VAT/VINCENT_VAN_VALERY.md",
-      "source_blob_sha": "c50055f33e4427a3fdcfacc85d8be5e515d7a1fc",
-      "last_verified_sha": "c50055f33e4427a3fdcfacc85d8be5e515d7a1fc"
+      "source_blob_sha": "9ca1e579ae71c2e13e64da372ae478d7c50fb6fc",
+      "last_verified_sha": "9ca1e579ae71c2e13e64da372ae478d7c50fb6fc"
     },
     {
       "source": "metadata/characters/OH_THAN_MAT_TRANG_SSS.md",
@@ -49,8 +49,8 @@
     {
       "source": "QUY_TAC/HE_THONG_NGUOI_THUONG_VA_LUMIEL.md",
       "codex": "CODEX/SSS/QUY_TAC/HE_THONG_NGUOI_THUONG_VA_LUMIEL.md",
-      "source_blob_sha": "cb4f8138414010ec623f163901caf206f661276f",
-      "last_verified_sha": "cb4f8138414010ec623f163901caf206f661276f"
+      "source_blob_sha": "73759b0a9a6f0c50a95ac5a46f1d832d28007a0a",
+      "last_verified_sha": "73759b0a9a6f0c50a95ac5a46f1d832d28007a0a"
     },
     {
       "source": "metadata/characters/deviant_combat_mechanics.md",
@@ -67,8 +67,8 @@
     {
       "source": "NHAN_VAT/BANG_CAP_LUMIEL_NHAN_VAT.md",
       "codex": "CODEX/SSS/THAM_CHIEU/BANG_CAP_LUMIEL_NHAN_VAT.md",
-      "source_blob_sha": "b2a6522b2220f09fc69a1d3b8503c35ba3dc8900",
-      "last_verified_sha": "b2a6522b2220f09fc69a1d3b8503c35ba3dc8900"
+      "source_blob_sha": "e723a6648fe44228fca8fe9f9a615465d159a9e7",
+      "last_verified_sha": "e723a6648fe44228fca8fe9f9a615465d159a9e7"
     },
     {
       "source": "metadata/timeline/TINH_KHAI_TIMELINE_BON_THOI_DAI_SECRET.md",
@@ -79,8 +79,8 @@
     {
       "source": "metadata/chapters/chapter_13_ke_chim_day.md",
       "codex": "CODEX/SSS/THAM_CHIEU/CHUONG_13_METADATA.md",
-      "source_blob_sha": "e57fcc6173aeaa584baabb2b603863a0e82ea2b2",
-      "last_verified_sha": "e57fcc6173aeaa584baabb2b603863a0e82ea2b2"
+      "source_blob_sha": "c1cf036d2127e787111a7d939feed72d91b096f5",
+      "last_verified_sha": "c1cf036d2127e787111a7d939feed72d91b096f5"
     },
     {
       "source": "CANON_CORE/LICH_SU_THE_GIOI.md",
@@ -99,6 +99,20 @@
   "verification": {
     "source_files": 14,
     "byte_identical_source_and_copy": 14,
-    "mismatches": []
+    "mismatches": [],
+    "links_validated_after_relocation": true
+  },
+  "source_snapshot_commit": "a636908b674960a66daf881d424a93c2fbb5044d",
+  "current_canon_notes": "CODEX/SSS/CAP_NHAT_CANON.md",
+  "repository_index": "CODEX/FILE_INDEX.md",
+  "chapter_locations": {
+    "chapters/CHUONG_11_VUNG_HON_NGUYEN.md": {
+      "canonical": "canon/chapters/CHUONG_11_VUNG_HON_NGUYEN.md",
+      "preserved_blob_sha": "5c12b8acf0e40364b9eee08d641a968d43c3673d"
+    },
+    "chapters/CHUONG_12_DEM_KHONG_CO_ANH.md": {
+      "canonical": "canon/chapters/CHUONG_12_DEM_KHONG_CO_ANH.md",
+      "preserved_blob_sha": "3a3e20518d5246852436185f85bc9a64b775940e"
+    }
   }
 }

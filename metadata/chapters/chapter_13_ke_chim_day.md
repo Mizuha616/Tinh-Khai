@@ -13,7 +13,7 @@ updated_at: 2026-10-22
 # Chương 13 — Kẻ Chìm Đáy (CANON - quyết định tác giả)
 
 ## Kết cấu
-1. Trang riêng trích **nguyên văn đã duyệt** từ *Sách Sáng Thế* của Church of Lumiel về Thiên Sứ Hồng. **Đã khôi phục và đối chiếu nguyên văn** tại [Sách Sáng Thế — Thiên Sứ Hồng](../../SACH_SANG_THE/THIEN_SU_HONG.md), không tự sáng tác lại.
+1. Trang riêng trích **nguyên văn đã duyệt** từ *Sách Sáng Thế* của Church of Lumiel về Thiên Sứ Hồng. **Đã khôi phục và đối chiếu nguyên văn** tại [Sách Sáng Thế — Thiên Sứ Hồng](https://github.com/Mizuha616/Tinh-Khai/blob/main/SACH_SANG_THE/THIEN_SU_HONG.md), không tự sáng tác lại.
 2. Báo cáo Cy-tech khoa học, súc tích về Sunken Man, giới hạn trong dữ liệu con người biết.
 3. Góc nhìn Deviant đêm đối đầu và ký ức bi kịch của người máy trưởng.
 4. Phòng họp: Deviant còn mặc hoodie trắng vấy máu, yêu cầu Vincent lo an táng; Vincent bắt đầu đánh giá lại Deviant.

@@ -48,3 +48,5 @@
 - **Tuyến tình cảm để xây dựng về sau**, chưa định hướng, chưa viết trước và không tự ghép đôi.
 - Chưa tự chốt tuổi Lionel, tính cách của Eliza, động cơ cụ thể của Anne/Julius/Benjamin, hay các mâu thuẫn gia tộc ngoài những điều người sáng tạo đã xác nhận.
 - Không nhầm Vincent với Conerius Van Valery I (người sáng lập và CEO đầu tiên của Cy-tech, đã qua đời).
+
+> **Mốc tra cứu 22/10/2026:** Hồ sơ này giữ các ghi chú theo giai đoạn. Trước khi dùng các mục “chưa xác lập” hoặc quy tắc cũ, đối chiếu [cập nhật canon hiện hành](https://github.com/Mizuha616/Tinh-Khai/blob/main/CODEX/SSS/CAP_NHAT_CANON.md) và nguồn chương tương ứng; không hồi tố sửa chương đã duyệt.

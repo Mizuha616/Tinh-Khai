@@ -56,3 +56,5 @@
 - Aeva **được nhận ở mức vé vớt vào định hướng hỗ trợ**, **không** xếp vào đào tạo chiến đấu.
 - Phân loại cấp R này là **hồ sơ tuyển sinh sai lệch**, không thay thế thiết lập năng lực thực sự SSS và bản chất Ngụy Thiên thần của Aeva.
 - **Chỉ dành cho người viết:** Deviant sử dụng Atharal để làm sai số liệu máy thứ hai; không đề cập tác nhân này trong Chương 3. Deviant đang chờ và muốn đánh thức ký ức Aeva; mục đích sâu xa của hai Ngụy Thiên thần chưa được tiết lộ.
+
+> **Mốc tra cứu 22/10/2026:** Hồ sơ này giữ các ghi chú theo giai đoạn. Trước khi dùng các mục “chưa xác lập” hoặc quy tắc cũ, đối chiếu [cập nhật canon hiện hành](https://github.com/Mizuha616/Tinh-Khai/blob/main/CODEX/SSS/CAP_NHAT_CANON.md) và nguồn chương tương ứng; không hồi tố sửa chương đã duyệt.

@@ -66,7 +66,7 @@
 - Hai Ngụy Thiên thần tới Tinh Khải **có mục đích**, nhưng nội dung mục đích **chưa được người sáng tạo công bố**; không tự suy đoán thành canon.
 - Deviant **tự nguyện** ở khu Cy-tech quản thúc trong học viện để **chờ Aeva**, không phải vì Cy-tech đủ sức khống chế hắn. Mục tiêu quan trọng của hắn là **đánh thức ký ức Aeva**; giữ bí mật trong giai đoạn truyện hiện tại.
 - Deviant lạnh nhạt với nhân loại, thể hiện vẻ ngạo nghễ bằng **sức mạnh và hành động**, không bằng lời khiêu khích hay đối đáp dài dòng. Hắn thích xâm nhập hệ thống, thường dùng Atharal để hack.
-- Xem thêm: [Hồ sơ Lumiel SSS](../LUMIEL/HO_SO_LUMIEL_CAP_SSS.md) và [Deviant](../NHAN_VAT/DEVIANT.md).
+- Xem thêm: [Hồ sơ Lumiel SSS](https://github.com/Mizuha616/Tinh-Khai/blob/main/LUMIEL/HO_SO_LUMIEL_CAP_SSS.md) và [Deviant](../NHAN_VAT/DEVIANT.md).
 
 ## 8. May Mắn chi thuật của Jenki — điều kiện kích hoạt (CANON)
 
@@ -97,3 +97,5 @@
 - **Deviant — Dịch chuyển tức thời:** Thuộc Hệ Đặc Biệt; điểm đến **phải nằm trong tầm nhìn của người sử dụng**. Không tự suy ra bán kính tối đa.
 - **Đi vào giấc mơ:** Một kỹ năng Hệ Đặc Biệt sẽ do một **nhân vật xuất hiện về sau** sở hữu; **có vùng ảnh hưởng riêng tùy cơ chế kỹ năng**, nhưng chưa xác định khoảng cách, hình dạng/phương thức xác định vùng, điều kiện kích hoạt, khả năng tương tác trong mơ hay danh tính người sở hữu.
 - Không tự gán kỹ năng Đi vào giấc mơ khả năng đọc ký ức, điều khiển giấc mơ, hay tác động mọi người ở bất cứ đâu. Không tiết lộ người sở hữu khi tác giả chưa quyết định.
+
+> **Mốc tra cứu 22/10/2026:** Hồ sơ này giữ các ghi chú theo giai đoạn. Trước khi dùng các mục “chưa xác lập” hoặc quy tắc cũ, đối chiếu [cập nhật canon hiện hành](https://github.com/Mizuha616/Tinh-Khai/blob/main/CODEX/SSS/CAP_NHAT_CANON.md) và nguồn chương tương ứng; không hồi tố sửa chương đã duyệt.

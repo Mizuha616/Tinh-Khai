@@ -4,7 +4,7 @@ id: CODEX-SSS-ATHARAL
 type: CHARACTER
 topic: Atharal
 characters: [Atharal, Deviant, Aeva]
-source: [LUMIEL/HO_SO_LUMIEL_CAP_SSS.md, chapters/CHUONG_11_VUNG_HON_NGUYEN.md]
+source: [LUMIEL/HO_SO_LUMIEL_CAP_SSS.md, canon/chapters/CHUONG_11_VUNG_HON_NGUYEN.md]
 status: confirmed
 visibility: author_only
 keywords: [Atharal, SSS, tâm linh, can thiệp dữ liệu]
@@ -18,4 +18,4 @@ updated_at: 2026-10-22
 - **Chương 11:** Atharal xuất hiện và giao tiếp với Aeva ở Vùng Hỗn Nguyên. Aeva chưa được kể toàn bộ quá khứ.
 - **Chưa xác lập:** các phạm vi tâm linh khác, chi phí, thời lượng và điều kiện từ chối triệu hồi.
 
-Nguồn: [Hồ sơ gốc](../../../LUMIEL/HO_SO_LUMIEL_CAP_SSS.md), [Chương 11](../../../chapters/CHUONG_11_VUNG_HON_NGUYEN.md). Đây là **bản tổng hợp dẫn nguồn**, không phải văn bản chương nguyên văn.
+Nguồn: [Hồ sơ gốc](../../../LUMIEL/HO_SO_LUMIEL_CAP_SSS.md), [Chương 11](../../../canon/chapters/CHUONG_11_VUNG_HON_NGUYEN.md). Đây là **bản tổng hợp dẫn nguồn**, không phải văn bản chương nguyên văn.

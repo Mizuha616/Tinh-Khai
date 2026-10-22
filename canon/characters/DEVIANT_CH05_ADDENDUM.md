@@ -38,3 +38,5 @@ updated_at: 2026-10-21
 - **Cảm xúc về sau:** Chưa canon hóa việc Deviant ghen với Vincent hoặc đã hiểu tình yêu.
 
 **Tham chiếu:** [Chương 5 canon](../chapters/CHUONG_05_THIEN_THAN_ROI.md) · [Timeline sự kiện](../timeline/EVENT_CH05_THIEN_THAN_ROI.md).
+
+> **Mốc tra cứu 22/10/2026:** Hồ sơ này giữ các ghi chú theo giai đoạn. Trước khi dùng các mục “chưa xác lập” hoặc quy tắc cũ, đối chiếu [cập nhật canon hiện hành](https://github.com/Mizuha616/Tinh-Khai/blob/main/CODEX/SSS/CAP_NHAT_CANON.md) và nguồn chương tương ứng; không hồi tố sửa chương đã duyệt.

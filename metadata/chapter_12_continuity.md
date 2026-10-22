@@ -4,7 +4,7 @@ id: chapter-12-continuity
 type: CANON
 topic: Chapter 12 continuity
 characters: [Aeva Shine, Deviant]
-source: chapters/CHUONG_12_DEM_KHONG_CO_ANH.md
+source: canon/chapters/CHUONG_12_DEM_KHONG_CO_ANH.md
 status: confirmed
 visibility: author_only
 keywords: [lumiel_sss, cy_tech, pronouns, white_hoodie]
