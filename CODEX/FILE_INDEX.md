@@ -30,7 +30,6 @@ updated_at: 2026-10-22
 | [canon/chapters/CHUONG_10_DA_HOI_ANH_SAO.md](../canon/chapters/CHUONG_10_DA_HOI_ANH_SAO.md) | Đọc được |
 | [canon/chapters/CHUONG_11_VUNG_HON_NGUYEN.md](../canon/chapters/CHUONG_11_VUNG_HON_NGUYEN.md) | Đọc được |
 | [canon/chapters/CHUONG_12_DEM_KHONG_CO_ANH.md](../canon/chapters/CHUONG_12_DEM_KHONG_CO_ANH.md) | Đọc được |
-
 | [canon/chapters/CHUONG_13_KE_CHIM_DAY.md](../canon/chapters/CHUONG_13_KE_CHIM_DAY.md) | Đã lưu canon toàn văn |
 
 ## Nhân vật
