@@ -4,7 +4,7 @@ id: TK-CODEX-CURRENT-20261022
 type: CANON
 topic: Mốc canon hiện hành và giới hạn dữ liệu SSS
 characters: ["Aeva Shine", "Deviant", "Atharal", "Melda", "Sulami", "Oh", "Vincent Van Valery", "Henry Hampton"]
-source: "Chương 1–12, metadata Chương 13 và chỉ đạo tác giả đã xác nhận"
+source: "Chương 1–13, metadata Chương 13 và chỉ đạo tác giả đã xác nhận"
 status: confirmed
 visibility: author_only
 keywords: ["Codex", "SSS", "nguồn", "liên tục", "tri thức", "cập nhật"]
@@ -37,7 +37,7 @@ Tệp này dẫn tới quyết định mới hơn để các mục “chưa ch�
 - **Xích Thiên là biến cố thiên thạch va chạm**, không phải tên một ngôi sao. Phân biệt lời kể tín ngưỡng với lịch sử. [Lịch sử](../../CANON_CORE/LICH_SU_THE_GIOI.md), [lời chứng gốc](../../MO_DAU/XICH_THIEN.md).
 - **Deadly Angel:** Conerius I là người tiêu diệt được lịch sử ghi nhận. **Bí mật tác giả:** Aeva thời Ngụy Thiên thần chia sẻ công nghệ khai thác Lumirith cho Conerius; không nhầm với Aeva mất ký ức hiện tại. Quy trình kiểm soát biển có nguồn gốc từ thời Aeva trước kia chưa thuộc hiểu biết của Vincent. [Timeline](THAM_CHIEU/TIMELINE_BON_THOI_DAI_SECRET.md), [metadata Chương 13](THAM_CHIEU/CHUONG_13_METADATA.md).
 - **Sunken Man / Henry Hampton:** gia đình đã được tác giả xác lập cho Chương 14; Chương 14 vẫn là định hướng. Henry mất tích khi Melanie 5 tuổi, hiện cô 50 tuổi: khoảng 45 năm; không đồng nhất mốc mất tích với thời điểm thức tỉnh thành SSS. Không tự gán tuổi Mitch/Ben. [Hồ sơ Henry](THAM_HOA/SUNKEN_MAN.md).
-- **Toàn văn Chương 13 còn thiếu.** Đã lưu trang mở đầu [Sách Sáng Thế — Thiên Sứ Hồng](../../canon/prefaces/CHUONG_13_THIEN_SU_HONG.md) và trình bày trang riêng trong Google Doc hồ sơ. Canon quyết định vẫn có trong metadata, nhưng **không tái dựng phần văn xuôi thành “nguyên văn đã duyệt”**.
+- **Toàn văn Chương 13 đã phục hồi và lưu canon:** [GitHub](../../canon/chapters/CHUONG_13_KE_CHIM_DAY.md), [Google Docs](https://docs.google.com/document/d/1brBEmmW-Qe93ua5MhJ_MMqm90tLDMGvkcLSFvpEVqpI/edit). Giữ nguyên tám đoạn kinh văn Thiên Sứ Hồng trên trang riêng.
 
 ## Các điểm phải giữ mở
 
