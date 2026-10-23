@@ -91,8 +91,8 @@
     {
       "source": "NHAN_VAT/EZEKIEL_SHINE.md",
       "codex": "CODEX/SSS/NHAN_VAT/EZEKIEL_SHINE.md",
-      "source_blob_sha": "dd8214e5f7f7233ad4d4a7d4c708e53ab36d0259",
-      "last_verified_sha": "dd8214e5f7f7233ad4d4a7d4c708e53ab36d0259"
+      "source_blob_sha": "b1be0aec8d87941b8d945b24f2472efac96bf596",
+      "last_verified_sha": "b1be0aec8d87941b8d945b24f2472efac96bf596"
     }
   ],
   "authored_dossiers": [
@@ -124,5 +124,8 @@
   "chapter_13_epigraph": "canon/prefaces/CHUONG_13_THIEN_SU_HONG.md",
   "chapter_13_full_text_status": "canon_approved_and_verified",
   "chapter_13_full_text_path": "canon/chapters/CHUONG_13_KE_CHIM_DAY.md",
-  "chapter_13_google_doc": "https://docs.google.com/document/d/1brBEmmW-Qe93ua5MhJ_MMqm90tLDMGvkcLSFvpEVqpI/edit"
+  "chapter_13_google_doc": "https://docs.google.com/document/d/1brBEmmW-Qe93ua5MhJ_MMqm90tLDMGvkcLSFvpEVqpI/edit",
+  "chapter_15_full_text_status": "canon_approved_and_verified",
+  "chapter_15_full_text_path": "canon/chapters/CHUONG_15_ANH_SANG_XA_LA.md",
+  "chapter_15_google_doc": "https://docs.google.com/document/d/1C8Jl63LiXD5cXW-1q7M6HCcrBDn60yEpzF2TyB2n2xw/edit?usp=drivesdk"
 }
