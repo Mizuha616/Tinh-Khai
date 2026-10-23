@@ -8,7 +8,7 @@ source: "Kiểm kê trực tiếp GitHub và nội dung Google Docs ngày 22/10/
 status: confirmed
 visibility: author_only
 keywords: ["index", "canon", "metadata", "Drive", "truy xuất"]
-updated_at: 2026-10-23
+updated_at: 2026-10-24
 ---
 # CHỈ MỤC NGUỒN TINH KHẢI
 
@@ -34,6 +34,7 @@ Kiểm kê nền ngày 22/10/2026: 53 tệp nguồn ngoài Codex đã mở đư�
 | [canon/chapters/CHUONG_14_DAM_TANG.md](../canon/chapters/CHUONG_14_DAM_TANG.md) | Canon tác giả duyệt |
 | [canon/chapters/CHUONG_15_ANH_SANG_XA_LA.md](../canon/chapters/CHUONG_15_ANH_SANG_XA_LA.md) | Canon 23/10/2026; [Google Doc](https://docs.google.com/document/d/1C8Jl63LiXD5cXW-1q7M6HCcrBDn60yEpzF2TyB2n2xw/edit?usp=drivesdk) |
 
+| [canon/chapters/CHUONG_17_NHUNG_NGUOI_DUOC_ANH_SANG_CUU_ROI.md](../canon/chapters/CHUONG_17_NHUNG_NGUOI_DUOC_ANH_SANG_CUU_ROI.md) | Canon 24/10/2026; [Google Doc](https://docs.google.com/document/d/1X5dFwuZt1j_t6wf_LlwsUAgR7V5MAViMC0TSA-nTCd8/edit?usp=drivesdk) |
 | [canon/chapters/CHUONG_16_SAI_SO.md](../canon/chapters/CHUONG_16_SAI_SO.md) | Canon 23/10/2026; [Google Doc](https://docs.google.com/document/d/1vxdsBJX0DiylLQf8moiX6L9eGvrh0tP3jOH0gzlleac/edit?usp=drivesdk) |
 
 ## Nhân vật
@@ -77,6 +78,10 @@ Kiểm kê nền ngày 22/10/2026: 53 tệp nguồn ngoài Codex đã mở đư�
 | [canon/timeline/EVENT_CH06_NGOAI_DU_DOAN.md](../canon/timeline/EVENT_CH06_NGOAI_DU_DOAN.md) | Đọc được |
 | [canon/timeline/EVENT_CH07_DOI_HINH_BAT_DAC_DI.md](../canon/timeline/EVENT_CH07_DOI_HINH_BAT_DAC_DI.md) | Đọc được |
 | [canon/timeline/EVENT_CH08_MOT_CHUT_DIU_DANG.md](../canon/timeline/EVENT_CH08_MOT_CHUT_DIU_DANG.md) | Đọc được |
+
+## Metadata Chương 17
+
+- [Metadata Chương 17](../metadata/chapters/chapter_17_nhung_nguoi_duoc_anh_sang_cuu_roi.md) — hồi ức Ezekiel, ký ức Irish, bí mật tác giả và giới hạn tri thức.
 
 ## Metadata mới Chương 16
 
