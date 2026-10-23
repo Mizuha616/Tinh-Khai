@@ -17,6 +17,8 @@ updated_at: 2026-10-23
 - [Codex Lumiel cấp SSS — 11 hồ sơ](SSS/README.md)
 - [Mốc canon hiện hành và các điểm còn mở](SSS/CAP_NHAT_CANON.md)
 - [Chỉ mục toàn bộ tệp và các bản Google Docs](FILE_INDEX.md)
+- [Tư liệu tương lai: Jenki ôm che chắn Aeva, Deviant đưa Jenki đến Oh](../metadata/future_arcs/JENKI_CUU_AEVA_DEVIANT_DUA_DEN_OH.md) — proposed, author_only
+- [Đề cương Chương 16: Một ngày của Jenki ở Royal](../metadata/future_arcs/JENKI_CHUONG_16_MOT_NGAY_O_ROYAL.md) — proposed, author_only
 - [Manifest nguồn và bản sao, gồm SHA gốc](SSS/MANIFEST.json)
 - [Báo cáo kiểm tra toàn repository ngày 22/10/2026](AUDIT_2026-10-22.md)
 - [Sách Sáng Thế — Thiên Sứ Hồng](../SACH_SANG_THE/THIEN_SU_HONG.md)
