@@ -12,7 +12,7 @@ updated_at: 2026-10-23
 ---
 # CHỈ MỤC NGUỒN TINH KHẢI
 
-Kiểm kê nền ngày 22/10/2026: 53 tệp nguồn ngoài Codex đã mở được, 14 tệp có bản sao nguyên nội dung trong Codex. Cập nhật 23/10/2026: bổ sung hồ sơ Ezekiel Shine cùng bản sao trong Codex (15 cặp nguồn–bản sao). Các hồ sơ SSS nằm tại [mục lục SSS](SSS/README.md).
+Kiểm kê nền ngày 22/10/2026: 53 tệp nguồn ngoài Codex đã mở được, 14 tệp có bản sao nguyên nội dung trong Codex. Cập nhật 23/10/2026: bổ sung hồ sơ Ezekiel Shine cùng bản sao trong Codex (15 cặp nguồn–bản sao). Các hồ sơ SSS nằm tại [mục lục SSS](SSS/README.md). Bổ sung canon Chương 15, hồ sơ Yae và Ezalor, metadata Chương 15 ngày 23/10/2026.
 
 ## Chương canon
 
@@ -31,6 +31,8 @@ Kiểm kê nền ngày 22/10/2026: 53 tệp nguồn ngoài Codex đã mở đư�
 | [canon/chapters/CHUONG_11_VUNG_HON_NGUYEN.md](../canon/chapters/CHUONG_11_VUNG_HON_NGUYEN.md) | Đọc được |
 | [canon/chapters/CHUONG_12_DEM_KHONG_CO_ANH.md](../canon/chapters/CHUONG_12_DEM_KHONG_CO_ANH.md) | Đọc được |
 | [canon/chapters/CHUONG_13_KE_CHIM_DAY.md](../canon/chapters/CHUONG_13_KE_CHIM_DAY.md) | Đã lưu canon toàn văn |
+| [canon/chapters/CHUONG_14_DAM_TANG.md](../canon/chapters/CHUONG_14_DAM_TANG.md) | Canon tác giả duyệt |
+| [canon/chapters/CHUONG_15_ANH_SANG_XA_LA.md](../canon/chapters/CHUONG_15_ANH_SANG_XA_LA.md) | Canon 23/10/2026; [Google Doc](https://docs.google.com/document/d/1C8Jl63LiXD5cXW-1q7M6HCcrBDn60yEpzF2TyB2n2xw/edit?usp=drivesdk) |
 
 ## Nhân vật
 
@@ -52,6 +54,7 @@ Kiểm kê nền ngày 22/10/2026: 53 tệp nguồn ngoài Codex đã mở đư�
 | [canon/characters/DEVIANT_CH05_ADDENDUM.md](../canon/characters/DEVIANT_CH05_ADDENDUM.md) | Đọc được |
 | [canon/characters/ELIZA_SWANZ.md](../canon/characters/ELIZA_SWANZ.md) | Đọc được |
 | [canon/characters/IRISH_LUCILDA.md](../canon/characters/IRISH_LUCILDA.md) | Đọc được |
+| [canon/characters/YAE.md](../canon/characters/YAE.md) | Xác nhận trong Chương 15; Lumiel S |
 
 ## Thế giới
 
@@ -86,6 +89,8 @@ Kiểm kê nền ngày 22/10/2026: 53 tệp nguồn ngoài Codex đã mở đư�
 | [metadata/characters/OH_THAN_MAT_TRANG_SSS.md](../metadata/characters/OH_THAN_MAT_TRANG_SSS.md) | Đọc được |
 | [metadata/characters/SULAMI_KE_DAN_DUONG_SSS.md](../metadata/characters/SULAMI_KE_DAN_DUONG_SSS.md) | Đọc được |
 | [metadata/characters/deviant_combat_mechanics.md](../metadata/characters/deviant_combat_mechanics.md) | Đọc được |
+| [metadata/characters/EZALOR_MA_PHAP_SU_S.md](../metadata/characters/EZALOR_MA_PHAP_SU_S.md) | Ezalor cấp S đồng hành Ezekiel |
+| [metadata/chapters/chapter_15_anh_sang_xa_la.md](../metadata/chapters/chapter_15_anh_sang_xa_la.md) | Mốc canon và ranh giới tri thức Chương 15 |
 | [metadata/lumiel_power_conversion_terminology.md](../metadata/lumiel_power_conversion_terminology.md) | Đọc được |
 | [metadata/rules/read_codex_lumiel_before_writing.md](../metadata/rules/read_codex_lumiel_before_writing.md) | Đọc được |
 | [metadata/rules/read_sach_sang_the_before_writing.md](../metadata/rules/read_sach_sang_the_before_writing.md) | Đọc được |
