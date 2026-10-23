@@ -8,13 +8,13 @@ visibility: author_only
 characters: []
 keywords: [Codex, Lumiel, SSS, chỉ mục, truy xuất]
 source: Tác giả yêu cầu tổ chức Codex, 2026-10-22
-updated_at: 2026-10-22
+updated_at: 2026-10-23
 ---
 # CODEX — THƯ VIỆN LUMIEL
 
 **Điểm vào bắt buộc trước khi viết Tinh Khải.** Đọc Codex cùng Sách Sáng Thế, rồi đối chiếu chương, hồ sơ và metadata liên quan.
 
-- [Codex Lumiel cấp SSS — 10 hồ sơ](SSS/README.md)
+- [Codex Lumiel cấp SSS — 11 hồ sơ](SSS/README.md)
 - [Mốc canon hiện hành và các điểm còn mở](SSS/CAP_NHAT_CANON.md)
 - [Chỉ mục toàn bộ tệp và các bản Google Docs](FILE_INDEX.md)
 - [Manifest nguồn và bản sao, gồm SHA gốc](SSS/MANIFEST.json)
