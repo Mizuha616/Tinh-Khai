@@ -23,7 +23,7 @@ updated_at: 2026-10-23
 3. Đội Dusik thắng đối kháng nhờ Aeva điều chỉnh kỹ năng phòng thủ đã học theo nhận thức cá nhân để làm lệch hướng công kích; Aeva có khả năng đảm nhiệm hỗ trợ/phòng thủ/bổ sung sát thương, nhưng chưa ổn định và **không sao chép nguyên bản tự động**.
 4. Irish, SS, quan sát Aeva cấp R và nhận ra tiềm năng khó đoán. Yae, nữ hầu trung thành cấp S, tự ý tấn công Aeva mà không được Irish sai khiến. Irish sau đó nghiêm khắc khiển trách Yae.
 5. Ezekiel Shine, học viên nhận học bổng, xuất hiện, dựng khiên ánh sáng bảo vệ Aeva và chữa vết xước. Hai người xưng **anh/em**, cùng họ Shine vì được Giáo hội thu nhận; Aeva cảm thấy đồng cảm.
-6. Devinant trở về, gọi **“Vợ ơi!”** và ôm Aeva trước Ezekiel. Ezalor (thuần ma cấp S, lão pháp sư áo trắng) gọi **“Thiếu gia”**, cảnh báo Deviant là SSS nguy hiểm; Deviant vẫn ôm Aeva, chỉ liếc mắt về chỗ Ezalor đang ẩn. Ezekiel hiểu Deviant dễ dàng phát hiện thực thể của mình.
+6. Deviant trở về, gọi **“Vợ ơi!”** và ôm Aeva trước Ezekiel. Ezalor (thuần ma cấp S, lão pháp sư áo trắng) gọi **“Thiếu gia”**, cảnh báo Deviant là SSS nguy hiểm; Deviant vẫn ôm Aeva, chỉ liếc mắt về chỗ Ezalor đang ẩn. Ezekiel hiểu Deviant dễ dàng phát hiện thực thể của mình.
 
 ## Bí mật tác giả và giới hạn nhận thức
 - **Ezekiel là Lumiel SSS** từ hồ sơ nhân vật; nhiệm vụ bí mật Giáo hội liên quan theo dõi khả năng Aeva khôi phục ký ức và, nếu cần, thu hồi cô. **Chưa lộ cho Aeva trong Chương 15.**
