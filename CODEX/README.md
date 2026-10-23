@@ -17,6 +17,7 @@ updated_at: 2026-10-23
 - [Codex Lumiel cấp SSS — 11 hồ sơ](SSS/README.md)
 - [Mốc canon hiện hành và các điểm còn mở](SSS/CAP_NHAT_CANON.md)
 - [Chỉ mục toàn bộ tệp và các bản Google Docs](FILE_INDEX.md)
+- [Chương 16 — Sai Số (canon)](../canon/chapters/CHUONG_16_SAI_SO.md) · [Metadata](../metadata/chapters/chapter_16_sai_so.md) · [Google Docs](https://docs.google.com/document/d/1vxdsBJX0DiylLQf8moiX6L9eGvrh0tP3jOH0gzlleac/edit?usp=drivesdk)
 - [Tư liệu tương lai: Jenki ôm che chắn Aeva, Deviant đưa Jenki đến Oh](../metadata/future_arcs/JENKI_CUU_AEVA_DEVIANT_DUA_DEN_OH.md) — proposed, author_only
 - [Đề cương Chương 16: Một ngày của Jenki ở Royal](../metadata/future_arcs/JENKI_CHUONG_16_MOT_NGAY_O_ROYAL.md) — proposed, author_only
 - [Manifest nguồn và bản sao, gồm SHA gốc](SSS/MANIFEST.json)
