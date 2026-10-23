@@ -7,7 +7,7 @@ characters: [Ezekiel Shine, Aeva Shine, Deviant]
 source: "Thiết lập trực tiếp của tác giả khi chuẩn bị Chương 15, 2026-10-23"
 status: confirmed
 visibility: author_only
-keywords: [Ezekiel, Shine, Church-of-Lumiel, SSS, cung-anh-sang, mui-ten-anh-sang, dich-chuyen, khien, hoi-phuc, hoc-bong, thu-hoi-Aeva, bong-tai-chu-thap, not-ruoi-le, chuong-15]
+keywords: [Ezekiel, Shine, Church-of-Lumiel, SSS, cung-anh-sang, mui-ten-anh-sang, dich-chuyen, khien, hoi-phuc, hoc-bong, thu-hoi-Aeva, bong-tai-chu-thap, not-ruoi-le, Ezalor, chuong-15]
 updated_at: 2026-10-23
 ---
 
@@ -55,6 +55,13 @@ updated_at: 2026-10-23
 
 **Chưa thiết lập:** Phạm vi, giới hạn, thời lượng, chi phí Lumirith, mức hồi phục, khả năng dùng đồng thời các kỹ năng, tên tuyệt kỹ, cấu tạo vật lý hay cơ chế tạo cung; không tự gán sức mạnh hoặc luật mới.
 
+## 4b. Thực thể đồng hành — CONFIRMED, CHƯƠNG 15
+- **Ezalor**: Lumiel **cấp S**, thực thể thuần ma mang hình dáng **lão pháp sư áo trắng**; gọi Ezekiel là **“thiếu gia”**.
+- Khả năng đi **xuyên tường**, **dịch chuyển**, **quan sát cấp độ đối thủ** để cảnh báo chủ nhân; **không có khả năng tác động lên vật thể**.
+- Trong đoạn kết Chương 15, Ezalor cảnh báo Deviant là SSS và nguy hiểm; Deviant không ngẩng đầu hay buông Aeva, chỉ **liếc mắt** tới vị trí Ezalor. Ezekiel ngạc nhiên vì thực thể ẩn kín bị nhận ra.
+- Ezalor **không phải bản sao của Atharal**, không tự gán năng lực can thiệp thiết bị hay cấp SSS cho Ezalor.
+- [Hồ sơ riêng Ezalor](https://github.com/Mizuha616/Tinh-Khai/blob/main/metadata/characters/EZALOR_MA_PHAP_SU_S.md).
+
 ## 5. Thân phận và nhiệm vụ bí mật — CONFIRMED, AUTHOR_ONLY
 - Việc học tại học viện theo **chương trình học bổng** là thân phận công khai.
 - Mục tiêu kín của Church of Lumiel là **tiếp cận Aeva**, theo dõi và dò xét **ký ức của cô có phục hồi hay không**.
@@ -62,13 +69,16 @@ updated_at: 2026-10-23
 - **Không tự đồng nhất** nhiệm vụ theo dõi với việc Ezekiel biết toàn bộ nguồn gốc, quá khứ, thân phận Ngụy Thiên thần hoặc ký ức giả của Aeva. Phạm vi nhận thức của anh ta **chưa được tác giả chốt**.
 - Theo canon hiện hành, họ **Shine** của Aeva là họ Giáo chủ được Giáo hội đặt cho cô, không phải họ huyết thống. Việc Ezekiel cùng họ là **manh mối thân phận**, chưa chứng minh họ có quan hệ gia đình.
 
-## 6. Định hướng xuất hiện Chương 15 — PROPOSED / CHƯA PHẢI CHƯƠNG CANON
-- Khi Deviant đi làm nhiệm vụ thực địa cùng đội Vincent, Aeva tiếp tục trưởng thành về kỹ năng chiến đấu trong đội Dusik.
-- Yae — nữ hầu trung thành, sùng kính công chúa Irish Lucilda — dự kiến có hành động quá khích nhằm dằn mặt Aeva. **Ezekiel can thiệp và giúp Aeva**; đây là hướng ra mắt chờ tác giả duyệt trong bản Chương 15.
-- Ezekiel có **tiềm năng trở thành tình địch của Deviant trong hiện tại**, nhưng **chưa xác nhận** tình cảm hai chiều, việc anh đã yêu Aeva, hay lựa chọn đứng về phía Giáo hội/Aeva khi xung đột xuất hiện.
-- Không tiết lộ toàn bộ nhiệm vụ thu hồi cho Aeva hoặc độc giả ngay lần xuất hiện đầu tiên nếu tác giả chưa cho phép.
+## 6. Xuất hiện Chương 15 — CONFIRMED; tuyến tình cảm vẫn mở
+- **Chương 15 — Ánh Sáng Xa Lạ đã duyệt:** Deviant đi thực địa với đội Vincent; Aeva luyện tập và giúp đội Dusik chiến thắng một trận đối kháng.
+- **Yae**, nữ hầu cấp S của Irish, tự ý tấn công Aeva. Ezekiel can thiệp bằng **khiên ánh sáng**, chữa vết xước; anh và Aeva tự nhiên xưng **anh/em**.
+- Ezekiel giới thiệu tên họ **Shine**, nói từng được Giáo hội thu nhận; Aeva nhận ra điểm chung và đề nghị chỉ đường trong học viện.
+- **Cảnh kết:** Ezalor cảnh báo Deviant SSS nguy hiểm. Deviant liếc mắt nhận ra Ezalor; Ezekiel ý thức sức mạnh áp đảo và sự nguy hiểm khó đoán của Deviant.
+- Ezekiel có **tiềm năng trở thành tình địch** trong các chương sau, nhưng **chưa xác nhận** đã yêu Aeva hay đã thay đổi lòng trung thành với Giáo hội.
+- **Bí mật nhiệm vụ thu hồi Aeva** vẫn chỉ thuộc tầng author_only, chưa được tiết lộ trong truyện.
+- Nguồn: [Chương 15 canon](https://github.com/Mizuha616/Tinh-Khai/blob/main/canon/chapters/CHUONG_15_ANH_SANG_XA_LA.md).
 
 ## 7. Ranh giới continuity
-- Phân biệt **thiết lập nhân vật đã chốt** với **sự kiện Chương 15 mới đang lên kế hoạch**.
+- **Chương 15 đã canon hóa** việc Ezekiel gặp Aeva, can thiệp ngăn Yae, và bị Deviant phát hiện Ezalor. Các diễn biến sau Chương 15 chưa mặc định canon.
 - Aeva có hồ sơ học viện **R / 30%**, năng lực thật **SSS** là bí mật. Không để mọi nhân vật, kể cả Ezekiel, tự động biết sự thật chỉ từ việc cô chiến đấu linh hoạt.
 - Đối chiếu [Aeva Shine](https://github.com/Mizuha616/Tinh-Khai/blob/main/NHAN_VAT/AEVA_SHINE.md), [Copy Skill](https://github.com/Mizuha616/Tinh-Khai/blob/main/canon/world/AEVA_COPY_SKILL.md), [Irish Lucilda](https://github.com/Mizuha616/Tinh-Khai/blob/main/canon/characters/IRISH_LUCILDA.md), [timeline bí mật](https://github.com/Mizuha616/Tinh-Khai/blob/main/CODEX/SSS/THAM_CHIEU/TIMELINE_BON_THOI_DAI_SECRET.md) trước khi đưa Ezekiel vào chương.
