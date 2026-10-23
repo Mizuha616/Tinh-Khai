@@ -12,7 +12,7 @@ updated_at: 2026-10-23
 ---
 # ĐỀ CƯƠNG & MỐC THIẾT KẾ CHƯƠNG 16 — MỘT NGÀY CỦA JENKI Ở ROYAL
 
-**Trạng thái:** đề xuất, KHÔNG phải chương đã duyệt. Có thể đặt tên **Một Ngày Ở Royal** hoặc **Sai Số**; chưa chốt tên.
+**Trạng thái lịch sử:** tài liệu tiền kỳ; Chương 16 đã được duyệt và lưu tại [canon](../../canon/chapters/CHUONG_16_SAI_SO.md) và [metadata](../chapters/chapter_16_sai_so.md). Những chi tiết không có trong toàn văn canon vẫn chỉ là gợi ý.\n\n**Trạng thái trước duyệt:** đề xuất, KHÔNG phải chương đã duyệt. Có thể đặt tên **Một Ngày Ở Royal** hoặc **Sai Số**; chưa chốt tên.
 
 ## Mong muốn đã nói rõ của tác giả
 - Góc nhìn Jenki, 17 tuổi, vừa làm nghiên cứu, vừa luyện chiến đấu/sức bền/né tránh, thỉnh thoảng đi thực địa với giáo sư; cậu còn là **con trai một gia đình thương nhân Lumirith ở Mythzuru**, không phải mọt sách thụ động.
