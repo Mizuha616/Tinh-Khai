@@ -114,6 +114,14 @@ Kiểm kê nền ngày 22/10/2026: 53 tệp nguồn ngoài Codex đã mở đư�
 | [MO_DAU/XICH_THIEN.md](../MO_DAU/XICH_THIEN.md) | Đọc được |
 | [SACH_SANG_THE/THIEN_SU_HONG.md](../SACH_SANG_THE/THIEN_SU_HONG.md) | Đọc được |
 
+
+## Tư liệu cốt truyện tương lai — đã lưu, chưa thành canon
+
+- [Jenki ôm che chắn Aeva; Deviant đưa Jenki đến Oh](../metadata/future_arcs/JENKI_CUU_AEVA_DEVIANT_DUA_DEN_OH.md) — nguyên tắc bắt buộc: Jenki **chạy tới ôm Aeva**, bị thương; Oh cứu, Deviant **đưa đến chỗ Oh**, không triệu hồi Oh; đề xuất, author_only.
+- [Định hướng Chương 16: Jenki một ngày ở Royal](../metadata/future_arcs/JENKI_CHUONG_16_MOT_NGAY_O_ROYAL.md) — điều tra Thiên Ngôn, đo Aeva ~80%, mua máy độc lập, luyện tập, thói quen đời thường và cảm nắng tuổi 17; đề xuất, author_only.
+
+**Cụm từ tra cứu:** `Jenki cứu Aeva`, `Jenki chạy ôm Aeva`, `Oh cứu Jenki`, `Deviant đưa Jenki đến Oh`, `Jenki chương 16`.
+
 ## Google Docs đã kiểm tra nội dung
 
 | Chương | Tài liệu | Kết quả |
