@@ -8,7 +8,7 @@ visibility: author_only
 characters: []
 keywords: [Codex, Lumiel, SSS, chỉ mục, truy xuất]
 source: Tác giả yêu cầu tổ chức Codex, 2026-10-22
-updated_at: 2026-10-23
+updated_at: 2026-10-24
 ---
 # CODEX — THƯ VIỆN LUMIEL
 
@@ -17,6 +17,8 @@ updated_at: 2026-10-23
 - [Codex Lumiel cấp SSS — 11 hồ sơ](SSS/README.md)
 - [Mốc canon hiện hành và các điểm còn mở](SSS/CAP_NHAT_CANON.md)
 - [Chỉ mục toàn bộ tệp và các bản Google Docs](FILE_INDEX.md)
+
+- [Chương 17 — Những Người Được Ánh Sáng Cứu Rỗi (canon)](../canon/chapters/CHUONG_17_NHUNG_NGUOI_DUOC_ANH_SANG_CUU_ROI.md) · [Metadata](../metadata/chapters/chapter_17_nhung_nguoi_duoc_anh_sang_cuu_roi.md) · [Google Docs](https://docs.google.com/document/d/1X5dFwuZt1j_t6wf_LlwsUAgR7V5MAViMC0TSA-nTCd8/edit?usp=drivesdk)
 - [Chương 16 — Sai Số (canon)](../canon/chapters/CHUONG_16_SAI_SO.md) · [Metadata](../metadata/chapters/chapter_16_sai_so.md) · [Google Docs](https://docs.google.com/document/d/1vxdsBJX0DiylLQf8moiX6L9eGvrh0tP3jOH0gzlleac/edit?usp=drivesdk)
 - [Tư liệu tương lai: Jenki ôm che chắn Aeva, Deviant đưa Jenki đến Oh](../metadata/future_arcs/JENKI_CUU_AEVA_DEVIANT_DUA_DEN_OH.md) — proposed, author_only
 - [Đề cương Chương 16: Một ngày của Jenki ở Royal](../metadata/future_arcs/JENKI_CHUONG_16_MOT_NGAY_O_ROYAL.md) — proposed, author_only
