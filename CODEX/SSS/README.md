@@ -7,7 +7,7 @@ status: confirmed
 visibility: author_only
 characters: [Aeva Shine, Deviant, Vincent Van Valery, Ezekiel Shine, Atharal, Melda, Oh, Sulami, Henry Hampton]
 keywords: [Codex, Lumiel, SSS, hồ sơ, nguồn]
-source: Đối chiếu canon và metadata GitHub đến 2026-10-22
+source: Đối chiếu canon và metadata GitHub đến 2026-10-23
 updated_at: 2026-10-23
 ---
 # CODEX — LUMIEL CẤP SSS
@@ -20,7 +20,7 @@ updated_at: 2026-10-23
 - [Aeva Shine](NHAN_VAT/AEVA_SHINE.md) — sức mạnh thật SSS; hồ sơ học viện R
 - [Deviant](NHAN_VAT/DEVIANT.md) — SSS, dịch chuyển, triệu hồi thực thể đã tồn tại
 - [Vincent Van Valery](NHAN_VAT/VINCENT_VAN_VALERY.md) — SSS, điều khiển nước
-- [Ezekiel Shine](NHAN_VAT/EZEKIEL_SHINE.md) — SSS, cung/mũi tên ánh sáng, tốc độ, dịch chuyển, khiên và hồi phục; Giáo hội, nhiệm vụ bí mật (author_only)
+- [Ezekiel Shine](NHAN_VAT/EZEKIEL_SHINE.md) — SSS, cung/mũi tên ánh sáng, tốc độ, dịch chuyển, khiên và hồi phục; đồng hành Ezalor cấp S; Giáo hội, nhiệm vụ bí mật (author_only)
 
 ## Thực thể có ý thức
 - [Atharal](THUC_THE/ATHARAL.md) — SSS hệ tâm linh; can thiệp thiết bị
@@ -44,10 +44,12 @@ updated_at: 2026-10-23
 - [Timeline bí mật bốn thời đại](THAM_CHIEU/TIMELINE_BON_THOI_DAI_SECRET.md)
 - [Lịch sử thế giới](THAM_CHIEU/LICH_SU_THE_GIOI.md)
 - [**Toàn văn Chương 13 canon**](../../canon/chapters/CHUONG_13_KE_CHIM_DAY.md) · [Metadata Chương 13](THAM_CHIEU/CHUONG_13_METADATA.md)
-- [Chương 11](../../canon/chapters/CHUONG_11_VUNG_HON_NGUYEN.md) · [Chương 12](../../canon/chapters/CHUONG_12_DEM_KHONG_CO_ANH.md)
+- [Chương 11](../../canon/chapters/CHUONG_11_VUNG_HON_NGUYEN.md) · [Chương 12](../../canon/chapters/CHUONG_12_DEM_KHONG_CO_ANH.md) · [Chương 15 canon](../../canon/chapters/CHUONG_15_ANH_SANG_XA_LA.md)
 - [Kinh văn Thiên Sứ Hồng](../../SACH_SANG_THE/THIEN_SU_HONG.md)
 
 ## Metadata bổ sung cần đọc theo chủ đề
+
+- [Ezalor — ma pháp sư cấp S đồng hành Ezekiel](../../metadata/characters/EZALOR_MA_PHAP_SU_S.md) (**không** thuộc nhóm SSS)
 
 - [Aeva — cơ chế Copy Skill](../../canon/world/AEVA_COPY_SKILL.md)
 - [Deviant — phụ lục Chương 5](../../canon/characters/DEVIANT_CH05_ADDENDUM.md)
