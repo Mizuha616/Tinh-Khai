@@ -68,4 +68,4 @@ updated_at: 2026-10-23
 ## 7. Ranh giới continuity
 - Phân biệt **thiết lập nhân vật đã chốt** với **sự kiện Chương 15 mới đang lên kế hoạch**.
 - Aeva có hồ sơ học viện **R / 30%**, năng lực thật **SSS** là bí mật. Không để mọi nhân vật, kể cả Ezekiel, tự động biết sự thật chỉ từ việc cô chiến đấu linh hoạt.
-- Đối chiếu [Aeva Shine](../../NHAN_VAT/AEVA_SHINE.md), [Copy Skill](../../canon/world/AEVA_COPY_SKILL.md), [Irish Lucilda](../../canon/characters/IRISH_LUCILDA.md), [timeline bí mật](../../CODEX/SSS/THAM_CHIEU/TIMELINE_BON_THOI_DAI_SECRET.md) trước khi đưa Ezekiel vào chương.
+- Đối chiếu [Aeva Shine](https://github.com/Mizuha616/Tinh-Khai/blob/main/NHAN_VAT/AEVA_SHINE.md), [Copy Skill](https://github.com/Mizuha616/Tinh-Khai/blob/main/canon/world/AEVA_COPY_SKILL.md), [Irish Lucilda](https://github.com/Mizuha616/Tinh-Khai/blob/main/canon/characters/IRISH_LUCILDA.md), [timeline bí mật](https://github.com/Mizuha616/Tinh-Khai/blob/main/CODEX/SSS/THAM_CHIEU/TIMELINE_BON_THOI_DAI_SECRET.md) trước khi đưa Ezekiel vào chương.
