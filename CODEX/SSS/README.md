@@ -5,14 +5,14 @@ type: WORLD
 topic: Danh mục Lumiel cấp SSS
 status: confirmed
 visibility: author_only
-characters: [Aeva Shine, Deviant, Vincent Van Valery, Atharal, Melda, Oh, Sulami, Henry Hampton]
+characters: [Aeva Shine, Deviant, Vincent Van Valery, Ezekiel Shine, Atharal, Melda, Oh, Sulami, Henry Hampton]
 keywords: [Codex, Lumiel, SSS, hồ sơ, nguồn]
 source: Đối chiếu canon và metadata GitHub đến 2026-10-22
-updated_at: 2026-10-22
+updated_at: 2026-10-23
 ---
 # CODEX — LUMIEL CẤP SSS
 
-**10 hồ sơ/đối tượng có căn cứ trong canon hoặc thiết lập được tác giả xác nhận.** Phân biệt **cấp năng lực nhân vật** và **cấp thảm họa**; không tự áp dụng tiêu chí giống hệt nhau.
+**11 hồ sơ/đối tượng có căn cứ trong canon hoặc thiết lập được tác giả xác nhận.** Phân biệt **cấp năng lực nhân vật** và **cấp thảm họa**; không tự áp dụng tiêu chí giống hệt nhau.
 
 **Đọc trước:** [Mốc canon hiện hành](CAP_NHAT_CANON.md), rồi tra hồ sơ và [chỉ mục nguồn đầy đủ](../FILE_INDEX.md).
 
@@ -20,6 +20,7 @@ updated_at: 2026-10-22
 - [Aeva Shine](NHAN_VAT/AEVA_SHINE.md) — sức mạnh thật SSS; hồ sơ học viện R
 - [Deviant](NHAN_VAT/DEVIANT.md) — SSS, dịch chuyển, triệu hồi thực thể đã tồn tại
 - [Vincent Van Valery](NHAN_VAT/VINCENT_VAN_VALERY.md) — SSS, điều khiển nước
+- [Ezekiel Shine](NHAN_VAT/EZEKIEL_SHINE.md) — SSS, cung/mũi tên ánh sáng, tốc độ, dịch chuyển, khiên và hồi phục; Giáo hội, nhiệm vụ bí mật (author_only)
 
 ## Thực thể có ý thức
 - [Atharal](THUC_THE/ATHARAL.md) — SSS hệ tâm linh; can thiệp thiết bị
