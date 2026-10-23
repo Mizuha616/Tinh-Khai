@@ -8,11 +8,11 @@ source: "Kiểm kê trực tiếp GitHub và nội dung Google Docs ngày 22/10/
 status: confirmed
 visibility: author_only
 keywords: ["index", "canon", "metadata", "Drive", "truy xuất"]
-updated_at: 2026-10-22
+updated_at: 2026-10-23
 ---
 # CHỈ MỤC NGUỒN TINH KHẢI
 
-53 tệp nguồn ngoài Codex đã mở được; 14 tệp có bản sao nguyên nội dung trong Codex. Các hồ sơ tổng hợp SSS nằm tại [mục lục SSS](SSS/README.md).
+Kiểm kê nền ngày 22/10/2026: 53 tệp nguồn ngoài Codex đã mở được, 14 tệp có bản sao nguyên nội dung trong Codex. Cập nhật 23/10/2026: bổ sung hồ sơ Ezekiel Shine cùng bản sao trong Codex (15 cặp nguồn–bản sao). Các hồ sơ SSS nằm tại [mục lục SSS](SSS/README.md).
 
 ## Chương canon
 
@@ -39,6 +39,7 @@ updated_at: 2026-10-22
 | [NHAN_VAT/AEVA_SHINE.md](../NHAN_VAT/AEVA_SHINE.md) | Đọc được |
 | [NHAN_VAT/BANG_CAP_LUMIEL_NHAN_VAT.md](../NHAN_VAT/BANG_CAP_LUMIEL_NHAN_VAT.md) | Đọc được |
 | [NHAN_VAT/DEVIANT.md](../NHAN_VAT/DEVIANT.md) | Đọc được |
+| [NHAN_VAT/EZEKIEL_SHINE.md](../NHAN_VAT/EZEKIEL_SHINE.md) | Đã xác nhận thiết lập 23/10/2026; [bản sao Codex](SSS/NHAN_VAT/EZEKIEL_SHINE.md) |
 | [NHAN_VAT/ELIZA_SWANZ.md](../NHAN_VAT/ELIZA_SWANZ.md) | Đọc được |
 | [NHAN_VAT/JENKI.md](../NHAN_VAT/JENKI.md) | Đọc được |
 | [NHAN_VAT/VINCENT_VAN_VALERY.md](../NHAN_VAT/VINCENT_VAN_VALERY.md) | Đọc được |
