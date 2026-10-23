@@ -34,6 +34,8 @@ Kiểm kê nền ngày 22/10/2026: 53 tệp nguồn ngoài Codex đã mở đư�
 | [canon/chapters/CHUONG_14_DAM_TANG.md](../canon/chapters/CHUONG_14_DAM_TANG.md) | Canon tác giả duyệt |
 | [canon/chapters/CHUONG_15_ANH_SANG_XA_LA.md](../canon/chapters/CHUONG_15_ANH_SANG_XA_LA.md) | Canon 23/10/2026; [Google Doc](https://docs.google.com/document/d/1C8Jl63LiXD5cXW-1q7M6HCcrBDn60yEpzF2TyB2n2xw/edit?usp=drivesdk) |
 
+| [canon/chapters/CHUONG_16_SAI_SO.md](../canon/chapters/CHUONG_16_SAI_SO.md) | Canon 23/10/2026; [Google Doc](https://docs.google.com/document/d/1vxdsBJX0DiylLQf8moiX6L9eGvrh0tP3jOH0gzlleac/edit?usp=drivesdk) |
+
 ## Nhân vật
 
 | Tệp nguồn | Trạng thái truy xuất |
@@ -75,6 +77,10 @@ Kiểm kê nền ngày 22/10/2026: 53 tệp nguồn ngoài Codex đã mở đư�
 | [canon/timeline/EVENT_CH06_NGOAI_DU_DOAN.md](../canon/timeline/EVENT_CH06_NGOAI_DU_DOAN.md) | Đọc được |
 | [canon/timeline/EVENT_CH07_DOI_HINH_BAT_DAC_DI.md](../canon/timeline/EVENT_CH07_DOI_HINH_BAT_DAC_DI.md) | Đọc được |
 | [canon/timeline/EVENT_CH08_MOT_CHUT_DIU_DANG.md](../canon/timeline/EVENT_CH08_MOT_CHUT_DIU_DANG.md) | Đọc được |
+
+## Metadata mới Chương 16
+
+- [Metadata canon Chương 16 — Sai Số](../metadata/chapters/chapter_16_sai_so.md) — kết quả 79,8%, ranh giới tri thức Jenki, cách gọi học viện.
 
 ## Metadata
 
