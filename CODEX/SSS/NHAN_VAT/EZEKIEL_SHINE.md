@@ -7,7 +7,7 @@ characters: [Ezekiel Shine, Aeva Shine, Deviant]
 source: "Thiết lập trực tiếp của tác giả khi chuẩn bị Chương 15, 2026-10-23"
 status: confirmed
 visibility: author_only
-keywords: [Ezekiel, Shine, Church-of-Lumiel, SSS, cung-anh-sang, mui-ten-anh-sang, dich-chuyen, khien, hoi-phuc, hoc-bong, thu-hoi-Aeva, chuong-15]
+keywords: [Ezekiel, Shine, Church-of-Lumiel, SSS, cung-anh-sang, mui-ten-anh-sang, dich-chuyen, khien, hoi-phuc, hoc-bong, thu-hoi-Aeva, bong-tai-chu-thap, not-ruoi-le, chuong-15]
 updated_at: 2026-10-23
 ---
 
@@ -26,6 +26,8 @@ updated_at: 2026-10-23
 
 ## 2. Ngoại hình và khí chất — CONFIRMED
 - Da trắng, tóc đen, mắt xanh lam; dáng cao 1m85.
+- **Nốt ruồi lệ:** Một nốt ruồi nhỏ **dưới mắt trái**, tạo nét quyến rũ, hơi yêu mị tương phản với khí chất ôn nhu.
+- **Khuyên tai nhận diện:** Một **bông tai hình chữ thập thả dài ở tai trái**, đung đưa nhẹ theo cử động; điểm nhấn mang sắc thái Giáo hội.
 - Phong thái **ôn nhu, lịch thiệp**, điềm tĩnh, có giáo dưỡng; khác kiểu lạnh lùng, áp đảo và ít nói của Deviant.
 - Không tự suy diễn rằng vẻ ôn hòa đồng nghĩa với yếu đuối hoặc không có quyết đoán.
 
@@ -38,6 +40,7 @@ updated_at: 2026-10-23
 - **Hai dải vải:** Từ phía sau mantle rủ xuống **hai dải vải thanh mảnh**, thêu họa tiết **chữ thập**; chuyển động khi bước đi hoặc giương cung.
 - **Điểm nhấn xanh lam:** Một vài đường thêu **lam tối ở vai hoặc tay áo**, cùng **ghim bạc nhỏ đính đá xanh lam**. Xanh lam chỉ là điểm nhấn liên hệ với màu mắt, không thay thế tông đen chủ đạo.
 - **Quần và giày:** Quần đen dáng gọn, boots đen.
+- **Phụ kiện đặc trưng:** Bông tai chữ thập thả dài **tai trái**; giữ rõ đường nét khuôn mặt và nốt ruồi lệ **dưới mắt trái**.
 - Tổng thể mềm mại, thanh nhã, có uy nghiêm của Giáo hội nhưng vẫn mang cảm giác thiếu niên 18 tuổi.
 
 ## 4. Năng lực và chiến đấu — CONFIRMED
