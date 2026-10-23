@@ -27,4 +27,6 @@ updated_at: 2026-10-23
 
 **Bảo mật cốt truyện:** Thông tin `author_only` phục vụ tác giả, không đồng nghĩa nhân vật/độc giả đã biết.
 
+[Chương 15 canon](../canon/chapters/CHUONG_15_ANH_SANG_XA_LA.md) · [Metadata Chương 15](../metadata/chapters/chapter_15_anh_sang_xa_la.md) · [Google Doc Chương 15](https://docs.google.com/document/d/1C8Jl63LiXD5cXW-1q7M6HCcrBDn60yEpzF2TyB2n2xw/edit?usp=drivesdk)
+
 **Kết quả rà soát bổ sung:** 75 đường dẫn GitHub ban đầu đều đọc được; nội dung Chương 1–12 khớp bản Drive sau khi bỏ ký hiệu dàn trang. Đã sửa 6 liên kết Codex, chuyển nguyên trạng Chương 11–12 vào `canon/chapters/`. Toàn văn Chương 13 đã được tác giả cung cấp và lưu canon ngày 22/10/2026. Báo cáo kiểm kê thể hiện tình trạng trước khi bổ sung.
