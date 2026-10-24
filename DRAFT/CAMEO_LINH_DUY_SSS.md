@@ -27,7 +27,9 @@ updated_at: 2026-10-24
 
 # Tinh Khải — Hồ sơ cameo Linh & Duy (DRAFT)
 
-> **Trạng thái:** Tư liệu nhân vật để dành cho các lần tác giả muốn đưa Linh và Duy vào Tinh Khải chơi. **Chưa phải canon mạch truyện chính; chưa mặc định xuất hiện trong bất kỳ chương nào.** Khi dùng cần có chỉ đạo riêng của tác giả. Không tự áp các thiết lập này lên luật sức mạnh của các nhân vật canon khác.
+> **Trạng thái:** Tư liệu hai Người Quan Sát để dành cho các lần tác giả muốn đưa Linh và Duy vào Tinh Khải. **Chưa phải canon mạch truyện chính; chưa mặc định xuất hiện trong bất kỳ chương nào.** Khi dùng cần có chỉ đạo riêng của tác giả. Không tự áp các thiết lập này lên luật sức mạnh của các nhân vật canon khác.
+>
+> **Định nghĩa Người Quan Sát do tác giả xác lập:** Giống một thành phần giám sát hệ thống: nhiệm vụ là quan sát thế giới và tìm kiếm bug/bất thường; năng lực mạnh là lớp bảo vệ để họ không bị bug tác động hoặc gây hại. Không đồng nhất quan sát với hóng chuyện giải trí.
 
 ## 1. Linh — SSS Lumiel
 
@@ -70,22 +72,23 @@ updated_at: 2026-10-24
   3. Không thể bị chỉ định làm mục tiêu.
   4. Triệu hồi đôi cánh thiên sứ đen mọc từ lưng.
   5. Aura xanh lam.
-  6. **Thao túng xác suất:** Điều chỉnh khả năng xảy ra của sự kiện theo ý muốn, ưu tiên các tình huống sinh hoạt, di chuyển, tránh nguy hiểm và tự vệ. Không dùng để thay đổi số phận, ý chí, quyết định hay các sự kiện quan trọng của nhân vật Tinh Khải.
-  7. **Toàn tri có chọn lọc:** Có thể chủ động tìm hiểu điều mình muốn biết; không bị động biết mọi bí mật. Khi đi chơi trong Tinh Khải, ưu tiên nhận biết thông tin cần thiết để định hướng, nhận diện nguy cơ và bảo vệ Linh, tránh tự ý tiết lộ hoặc khai thác bí mật làm lệch mạch truyện.
-  8. **Sáng tạo vật chất:** Có thể tạo ra vật dụng và nhu yếu phẩm theo ý muốn (đồ ăn, thức uống, ghế ngồi, dụng cụ…), ưu tiên phục vụ sinh hoạt hoặc bảo vệ khi cần.
-- **Nguyên tắc sử dụng ba năng lực mới:** Tác giả đã đồng ý bổ sung để di chuyển trong Tinh Khải thuận tiện hơn và để Duy có khả năng hỗ trợ bảo vệ Linh nếu gặp thực thể mạnh. Hai người vẫn đóng vai trò quan sát; chỉ tự vệ và thoát hiểm trong tình huống bất trắc, không chủ động can thiệp vào xung đột chính.
+  6. **Thao túng xác suất:** Điều chỉnh khả năng xảy ra của sự kiện theo ý muốn, phục vụ việc duy trì an toàn và khả năng quan sát khi gặp bug. Không dùng để thay đổi số phận, ý chí, quyết định hay các sự kiện quan trọng của nhân vật Tinh Khải.
+  7. **Toàn tri có chọn lọc:** Có thể chủ động tìm hiểu điều mình muốn biết; không bị động biết mọi bí mật. Ưu tiên nhận biết thông tin cần thiết để quan sát và phát hiện bug, nhận diện nguy cơ đối với Người Quan Sát; không tự ý tiết lộ hoặc khai thác bí mật làm lệch mạch truyện.
+  8. **Sáng tạo vật chất:** Có thể tạo ra vật dụng và nhu yếu phẩm theo ý muốn (đồ ăn, thức uống, ghế ngồi, dụng cụ…), có thể hỗ trợ duy trì điều kiện quan sát và bảo vệ khi cần.
+- **Nguyên tắc sử dụng ba năng lực mới:** Tác giả đã đồng ý bổ sung để việc di chuyển và quan sát thuận tiện hơn, hỗ trợ phát hiện bug và giữ an toàn cho hai Người Quan Sát trước bất thường. Sức mạnh trước hết là cơ chế bảo vệ, không phải công cụ sửa cốt truyện theo ý thích. Quyền hạn xử lý bug sau khi phát hiện **chưa được tác giả xác lập**, không tự suy diễn rằng hai người được phép thay đổi hay xóa bug.
 - **Giới hạn cần giữ:** Tác giả **chưa cấp kiếm one-shot** cho Duy. Không tự ý thêm năng lực này.
 - **Tính cách/cách xuất hiện:** Hay trêu Linh, đôi khi thích làm dáng lạnh lùng như Deviant nhưng khó giữ vẻ nghiêm túc quá lâu. Thích cùng Linh quan sát chuyện thú vị. Có khuynh hướng nghịch và đặt câu hỏi kỳ quặc; Linh thường là người kéo về thực tế.
 
-## 3. Quy tắc cameo của bộ đôi
+## 3. Vai trò Người Quan Sát và quy tắc xuất hiện
 
-1. Linh và Duy thường xuất hiện cùng nhau, chủ yếu để quan sát, trò chuyện và hóng chuyện.
-2. Chỉ xuất hiện trong truyện khi tác giả chủ động yêu cầu; không lấn đất diễn nhân vật chính.
-3. Không tự can thiệp vào các nút thắt canon hoặc giải quyết xung đột bằng sức mạnh SSS. Các năng lực mới của Duy được dùng để di chuyển, sinh hoạt, quan sát và tự vệ/bảo vệ Linh khi cần, không để chỉnh lại số phận nhân vật.
-4. Cả **Linh và Duy đều không thể bị chỉ định làm mục tiêu**. Riêng Linh còn có **khả năng không thể bị tấn công**. Giữ đúng cả hai thuộc tính này, không xóa hay đánh đồng chúng.
-5. Phân biệt đòn kết liễu: **gậy của Linh one-shot**; **kiếm của Duy không có one-shot** theo hồ sơ hiện tại.
-6. Nếu tác giả muốn đưa cả hai vào một cảnh, giữ giọng đối thoại tự nhiên, thân thiết, tinh nghịch, không biến họ thành hai nhân vật chiếm spotlight.
-7. Đây là ý tưởng giải trí/ngoại truyện, **không hợp thức hóa vào canon chính nếu chưa được tác giả duyệt**.
+1. **Nhiệm vụ cốt lõi:** Quan sát thế giới Tinh Khải và **tìm bug/bất thường** theo nghĩa giám sát hệ thống.
+2. **Mục đích của năng lực:** Bảo vệ hai Người Quan Sát khỏi tác động hay nguy hiểm do bug gây ra, đồng thời duy trì khả năng quan sát. Năng lực không mặc nhiên trao quyền tái biên soạn canon.
+3. **Phạm vi can thiệp:** Quan sát và nhận diện bug không đồng nghĩa với tự ý sửa bug. Cách ghi nhận, báo cáo hay xử lý bug, và ai có quyền phê duyệt việc sửa, còn để tác giả quyết định.
+4. Linh và Duy thường đi cùng nhau. Họ có thể trò chuyện, đùa giỡn và hóng chuyện trong lúc làm nhiệm vụ, nhưng **đó là tính cách**, không phải chức năng của Người Quan Sát.
+5. Chỉ xuất hiện trong truyện khi tác giả chủ động yêu cầu; không lấn đất diễn nhân vật chính hoặc làm thay các quyết định của họ.
+6. Cả **Linh và Duy đều không thể bị chỉ định làm mục tiêu**. Riêng Linh còn có **khả năng không thể bị tấn công**. Giữ đúng cả hai thuộc tính này, không xóa hay đánh đồng chúng.
+7. Phân biệt đòn kết liễu: **gậy của Linh one-shot**; **kiếm của Duy không có one-shot** theo hồ sơ hiện tại.
+8. Đây vẫn là tư liệu DRAFT cho cameo/ngoại truyện, **không tự động hợp thức hóa vào canon chính nếu chưa được tác giả duyệt**.
 
 ## 4. Ghi chú ngoài lề
 
