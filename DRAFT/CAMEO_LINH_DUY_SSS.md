@@ -18,6 +18,7 @@ keywords:
   - ngoại truyện
   - gậy bóng chày
   - kiếm ánh sáng
+  - tái tạo thực tại
 updated_at: 2026-10-24
 ---
 
@@ -28,6 +29,7 @@ updated_at: 2026-10-24
 ## 1. Linh — SSS Lumiel
 
 - **Giới tính:** Nữ.
+- **Tuổi:** 19 (bằng tuổi Duy).
 - **Chiều cao:** 1m60.
 - **Tóc:** Đen, dài qua mông.
 - **Mắt:** Đỏ.
@@ -41,7 +43,9 @@ updated_at: 2026-10-24
   3. Triệu hồi **đôi cánh thiên sứ đen mọc từ lưng**, không mọc từ tay.
   4. Aura sức mạnh màu tím.
   5. Không thể bị tấn công.
-  6. One-shot: đòn đánh bằng gậy có thể khiến mục tiêu biến mất ngay tức khắc.
+  6. Không thể bị chỉ định làm mục tiêu.
+  7. **Tái tạo thực tại bất chấp mọi quy tắc** (năng lực do tác giả xác nhận; chưa tự đặt thêm giới hạn hay cơ chế).
+  8. One-shot: đòn đánh bằng gậy có thể khiến mục tiêu biến mất ngay tức khắc.
 - **Tính cách/cách xuất hiện:** Thích hóng chuyện, tinh nghịch, có thể ung dung quan sát ở nơi có biến. Không tùy tiện dùng sức mạnh hủy diệt khi chẳng cần thiết.
 - **Lưu ý hình ảnh:** Tác giả đã hài lòng với phiên bản **chân dung chính diện** sau những lần sửa tất trắng và vị trí mọc cánh. Tài liệu này không đính kèm hay tuyên bố lưu ảnh gốc.
 
@@ -71,7 +75,7 @@ updated_at: 2026-10-24
 1. Linh và Duy thường xuất hiện cùng nhau, chủ yếu để quan sát, trò chuyện và hóng chuyện.
 2. Chỉ xuất hiện trong truyện khi tác giả chủ động yêu cầu; không lấn đất diễn nhân vật chính.
 3. Không tự can thiệp vào các nút thắt canon hoặc giải quyết xung đột bằng sức mạnh SSS.
-4. Phân biệt khả năng phòng vệ: **Linh không thể bị tấn công**, còn **Duy không thể bị chỉ định làm mục tiêu**. Hai mô tả không được tự ý coi là cùng một năng lực.
+4. Cả **Linh và Duy đều không thể bị chỉ định làm mục tiêu**. Riêng Linh còn có **khả năng không thể bị tấn công**. Giữ đúng cả hai thuộc tính này, không xóa hay đánh đồng chúng.
 5. Phân biệt đòn kết liễu: **gậy của Linh one-shot**; **kiếm của Duy không có one-shot** theo hồ sơ hiện tại.
 6. Nếu tác giả muốn đưa cả hai vào một cảnh, giữ giọng đối thoại tự nhiên, thân thiết, tinh nghịch, không biến họ thành hai nhân vật chiếm spotlight.
 7. Đây là ý tưởng giải trí/ngoại truyện, **không hợp thức hóa vào canon chính nếu chưa được tác giả duyệt**.
@@ -84,7 +88,6 @@ updated_at: 2026-10-24
 
 ## 5. Phần còn mở
 
-- Tuổi của Linh chưa được tác giả chốt.
 - Tên riêng hoặc tên chiêu thức của các năng lực chưa được chốt.
 - Quan hệ hai người với hệ thống, lịch sử và phe phái Tinh Khải chưa được định nghĩa.
 - Chân dung gốc của cả hai cần liên kết/tải từ hình ảnh tác giả chọn nếu sau này muốn làm hồ sơ hình ảnh chính thức.
