@@ -2,7 +2,7 @@
 project: Tinh Khải
 id: DRAFT-CAMEO-LINH-DUY-SSS-20261024
 type: character
-topic: Hồ sơ bộ đôi cameo Linh & Duy — SSS Lumiel
+topic: Hồ sơ Người Quan Sát liên thế giới Linh & Duy — SSS Lumiel
 characters:
   - Linh
   - Duy
@@ -22,6 +22,9 @@ keywords:
   - thao túng xác suất
   - toàn tri có chọn lọc
   - sáng tạo vật chất
+  - du hành liên thế giới
+  - bức tường thứ tư
+  - sự cố vượt ranh giới
 updated_at: 2026-10-24
 ---
 
@@ -29,7 +32,7 @@ updated_at: 2026-10-24
 
 > **Trạng thái:** Tư liệu hai Người Quan Sát để dành cho các lần tác giả muốn đưa Linh và Duy vào Tinh Khải. **Chưa phải canon mạch truyện chính; chưa mặc định xuất hiện trong bất kỳ chương nào.** Khi dùng cần có chỉ đạo riêng của tác giả. Không tự áp các thiết lập này lên luật sức mạnh của các nhân vật canon khác.
 >
-> **Định nghĩa Người Quan Sát do tác giả xác lập:** Giống một thành phần giám sát hệ thống: nhiệm vụ là quan sát thế giới và tìm kiếm bug/bất thường; năng lực mạnh là lớp bảo vệ để họ không bị bug tác động hoặc gây hại. Không đồng nhất quan sát với hóng chuyện giải trí.
+> **Định nghĩa Người Quan Sát do tác giả xác lập:** Giống một thành phần giám sát hệ thống liên thế giới: nhiệm vụ thường trực là quan sát và tìm bug/bất thường; năng lực mạnh là lớp bảo vệ trước bug, đồng thời bảo đảm họ có thể ngăn chặn sự cố khẩn cấp xé rách bức tường thứ tư. Không đồng nhất quan sát với hóng chuyện giải trí.
 
 ## 1. Linh — SSS Lumiel
 
@@ -81,14 +84,15 @@ updated_at: 2026-10-24
 
 ## 3. Vai trò Người Quan Sát và quy tắc xuất hiện
 
-1. **Nhiệm vụ cốt lõi:** Quan sát thế giới Tinh Khải và **tìm bug/bất thường** theo nghĩa giám sát hệ thống.
+1. **Nhiệm vụ cốt lõi:** Quan sát các thế giới, bao gồm **Tinh Khải** và **Huyễn Giới**, và **tìm bug/bất thường** theo nghĩa giám sát hệ thống. Hai người có thể di chuyển qua lại giữa các thế giới; tu tiên khi ghé Huyễn Giới là trải nghiệm tùy chọn, không phải yêu cầu hay năng lực đã học sẵn.
 2. **Mục đích của năng lực:** Bảo vệ hai Người Quan Sát khỏi tác động hay nguy hiểm do bug gây ra, đồng thời duy trì khả năng quan sát. Năng lực không mặc nhiên trao quyền tái biên soạn canon.
-3. **Phạm vi can thiệp:** Quan sát và nhận diện bug không đồng nghĩa với tự ý sửa bug. Cách ghi nhận, báo cáo hay xử lý bug, và ai có quyền phê duyệt việc sửa, còn để tác giả quyết định.
-4. Linh và Duy thường đi cùng nhau. Họ có thể trò chuyện, đùa giỡn và hóng chuyện trong lúc làm nhiệm vụ, nhưng **đó là tính cách**, không phải chức năng của Người Quan Sát.
-5. Chỉ xuất hiện trong truyện khi tác giả chủ động yêu cầu; không lấn đất diễn nhân vật chính hoặc làm thay các quyết định của họ.
-6. Cả **Linh và Duy đều không thể bị chỉ định làm mục tiêu**. Riêng Linh còn có **khả năng không thể bị tấn công**. Giữ đúng cả hai thuộc tính này, không xóa hay đánh đồng chúng.
-7. Phân biệt đòn kết liễu: **gậy của Linh one-shot**; **kiếm của Duy không có one-shot** theo hồ sơ hiện tại.
-8. Đây vẫn là tư liệu DRAFT cho cameo/ngoại truyện, **không tự động hợp thức hóa vào canon chính nếu chưa được tác giả duyệt**.
+3. **Phạm vi can thiệp thông thường:** Quan sát và nhận diện bug không đồng nghĩa với tự ý sửa mọi diễn biến hay biến đổi canon. Không thay các nhân vật giải quyết xung đột nội tại của câu chuyện.
+4. **Ngoại lệ can thiệp khẩn cấp do tác giả xác lập:** Nếu nhân vật nổi loạn theo nghĩa vượt ngoài sự vận hành của thế giới, hoặc một đại thực thể xé rách bức tường thứ tư và đe dọa vượt ranh giới giữa thế giới hư cấu với bên ngoài, Linh và Duy **có nhiệm vụ trực tiếp ngăn chặn sự cố**. Đây là lý do dự phòng cốt lõi khiến tác giả tạo ra họ; không phải cái cớ để can thiệp vào những mâu thuẫn bình thường trong truyện.
+5. Linh và Duy thường đi cùng nhau. Họ có thể trò chuyện, đùa giỡn và hóng chuyện trong lúc làm nhiệm vụ, nhưng **đó là tính cách**, không phải chức năng của Người Quan Sát.
+6. Chỉ xuất hiện trong truyện khi tác giả chủ động yêu cầu; không lấn đất diễn nhân vật chính hoặc làm thay các quyết định của họ.
+7. Cả **Linh và Duy đều không thể bị chỉ định làm mục tiêu**. Riêng Linh còn có **khả năng không thể bị tấn công**. Giữ đúng cả hai thuộc tính này, không xóa hay đánh đồng chúng.
+8. Phân biệt đòn kết liễu: **gậy của Linh one-shot**; **kiếm của Duy không có one-shot** theo hồ sơ hiện tại.
+9. Đây vẫn là tư liệu DRAFT cho cameo/ngoại truyện, **không tự động hợp thức hóa vào canon chính nếu chưa được tác giả duyệt**.
 
 ## 4. Ghi chú ngoài lề
 
