@@ -19,6 +19,9 @@ keywords:
   - gậy bóng chày
   - kiếm ánh sáng
   - tái tạo thực tại
+  - thao túng xác suất
+  - toàn tri có chọn lọc
+  - sáng tạo vật chất
 updated_at: 2026-10-24
 ---
 
@@ -67,6 +70,10 @@ updated_at: 2026-10-24
   3. Không thể bị chỉ định làm mục tiêu.
   4. Triệu hồi đôi cánh thiên sứ đen mọc từ lưng.
   5. Aura xanh lam.
+  6. **Thao túng xác suất:** Điều chỉnh khả năng xảy ra của sự kiện theo ý muốn, ưu tiên các tình huống sinh hoạt, di chuyển, tránh nguy hiểm và tự vệ. Không dùng để thay đổi số phận, ý chí, quyết định hay các sự kiện quan trọng của nhân vật Tinh Khải.
+  7. **Toàn tri có chọn lọc:** Có thể chủ động tìm hiểu điều mình muốn biết; không bị động biết mọi bí mật. Khi đi chơi trong Tinh Khải, ưu tiên nhận biết thông tin cần thiết để định hướng, nhận diện nguy cơ và bảo vệ Linh, tránh tự ý tiết lộ hoặc khai thác bí mật làm lệch mạch truyện.
+  8. **Sáng tạo vật chất:** Có thể tạo ra vật dụng và nhu yếu phẩm theo ý muốn (đồ ăn, thức uống, ghế ngồi, dụng cụ…), ưu tiên phục vụ sinh hoạt hoặc bảo vệ khi cần.
+- **Nguyên tắc sử dụng ba năng lực mới:** Tác giả đã đồng ý bổ sung để di chuyển trong Tinh Khải thuận tiện hơn và để Duy có khả năng hỗ trợ bảo vệ Linh nếu gặp thực thể mạnh. Hai người vẫn đóng vai trò quan sát; chỉ tự vệ và thoát hiểm trong tình huống bất trắc, không chủ động can thiệp vào xung đột chính.
 - **Giới hạn cần giữ:** Tác giả **chưa cấp kiếm one-shot** cho Duy. Không tự ý thêm năng lực này.
 - **Tính cách/cách xuất hiện:** Hay trêu Linh, đôi khi thích làm dáng lạnh lùng như Deviant nhưng khó giữ vẻ nghiêm túc quá lâu. Thích cùng Linh quan sát chuyện thú vị. Có khuynh hướng nghịch và đặt câu hỏi kỳ quặc; Linh thường là người kéo về thực tế.
 
@@ -74,7 +81,7 @@ updated_at: 2026-10-24
 
 1. Linh và Duy thường xuất hiện cùng nhau, chủ yếu để quan sát, trò chuyện và hóng chuyện.
 2. Chỉ xuất hiện trong truyện khi tác giả chủ động yêu cầu; không lấn đất diễn nhân vật chính.
-3. Không tự can thiệp vào các nút thắt canon hoặc giải quyết xung đột bằng sức mạnh SSS.
+3. Không tự can thiệp vào các nút thắt canon hoặc giải quyết xung đột bằng sức mạnh SSS. Các năng lực mới của Duy được dùng để di chuyển, sinh hoạt, quan sát và tự vệ/bảo vệ Linh khi cần, không để chỉnh lại số phận nhân vật.
 4. Cả **Linh và Duy đều không thể bị chỉ định làm mục tiêu**. Riêng Linh còn có **khả năng không thể bị tấn công**. Giữ đúng cả hai thuộc tính này, không xóa hay đánh đồng chúng.
 5. Phân biệt đòn kết liễu: **gậy của Linh one-shot**; **kiếm của Duy không có one-shot** theo hồ sơ hiện tại.
 6. Nếu tác giả muốn đưa cả hai vào một cảnh, giữ giọng đối thoại tự nhiên, thân thiết, tinh nghịch, không biến họ thành hai nhân vật chiếm spotlight.
