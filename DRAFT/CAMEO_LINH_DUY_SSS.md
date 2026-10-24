@@ -105,3 +105,10 @@ updated_at: 2026-10-24
 - Tên riêng hoặc tên chiêu thức của các năng lực chưa được chốt.
 - Quan hệ hai người với hệ thống, lịch sử và phe phái Tinh Khải chưa được định nghĩa.
 - Chân dung gốc của cả hai cần liên kết/tải từ hình ảnh tác giả chọn nếu sau này muốn làm hồ sơ hình ảnh chính thức.
+
+
+## 6. Prompt hình ảnh couple chuẩn
+
+- **Tên gọi:** Prompt couple Linh Duy chuẩn.
+- **File:** [PROMPT_COUPLE_LINH_DUY_SSS.md](PROMPT_COUPLE_LINH_DUY_SSS.md).
+- Chứa prompt đầy đủ + prompt ngắn, style note từ ảnh được tác giả duyệt, biến thể pose và cánh SSS tùy chọn; ảnh tham chiếu gốc chưa lưu kèm repo.
