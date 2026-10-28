@@ -18,6 +18,7 @@ updated_at: 2026-10-24
 - [Mốc canon hiện hành và các điểm còn mở](SSS/CAP_NHAT_CANON.md)
 - [Chỉ mục toàn bộ tệp và các bản Google Docs](FILE_INDEX.md)
 
+- [Chương 18 — Bầu Trời Trong Ký Ức (canon)](../canon/chapters/CHUONG_18_BAU_TROI_TRONG_KY_UC.md) · [Metadata](../metadata/chapters/chapter_18_bau_troi_trong_ky_uc.md) · [Google Docs](https://docs.google.com/document/d/1gs0J-Sf7g3o5_MADYk5Ir-C8QFBpp8U7ecPdpq-Ypzg/edit?usp=drivesdk)
 - [Chương 17 — Những Người Được Ánh Sáng Cứu Rỗi (canon)](../canon/chapters/CHUONG_17_NHUNG_NGUOI_DUOC_ANH_SANG_CUU_ROI.md) · [Metadata](../metadata/chapters/chapter_17_nhung_nguoi_duoc_anh_sang_cuu_roi.md) · [Google Docs](https://docs.google.com/document/d/1X5dFwuZt1j_t6wf_LlwsUAgR7V5MAViMC0TSA-nTCd8/edit?usp=drivesdk)
 - [Chương 16 — Sai Số (canon)](../canon/chapters/CHUONG_16_SAI_SO.md) · [Metadata](../metadata/chapters/chapter_16_sai_so.md) · [Google Docs](https://docs.google.com/document/d/1vxdsBJX0DiylLQf8moiX6L9eGvrh0tP3jOH0gzlleac/edit?usp=drivesdk)
 - [Tư liệu tương lai: Jenki ôm che chắn Aeva, Deviant đưa Jenki đến Oh](../metadata/future_arcs/JENKI_CUU_AEVA_DEVIANT_DUA_DEN_OH.md) — proposed, author_only
